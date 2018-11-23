@@ -45,10 +45,10 @@ circle {
     <div style="position:absolute;bottom:0;font-size:18px;">
       <input type="checkbox" id="voronoi"> <label for="voronoi">show Voronoi</label>
     </div>
-    <script type="text/javascript" src="d3/d3.js"></script>
-    <script type="text/javascript" src="d3/d3.csv.js"></script>
-    <script type="text/javascript" src="d3/d3.geo.js"></script>
-    <script type="text/javascript" src="d3/d3.geom.js"></script>
+    <script type="text/javascript" src="https://github.com/gugus8/d3/d3.js"></script>
+    <script type="text/javascript" src="https://github.com/gugus8/d3/d3.csv.js"></script>
+    <script type="text/javascript" src="https://github.com/gugus8/d3/d3.geo.js"></script>
+    <script type="text/javascript" src="https://github.com/gugus8/d3/d3.geom.js"></script>
     <script type="text/javascript">
 
 var w = 1280,
@@ -80,33 +80,14 @@ d3.select("input[type=checkbox]").on("change", function() {
   cells.classed("voronoi", this.checked);
 });
 
-d3.json("us-states.json", function(collection) {
+d3.json("indonesia.json", function(collection) {
   states.selectAll("path")
       .data(collection.features)
     .enter().append("svg:path")
       .attr("d", path);
 });
 
-d3.csv("flights-airport.csv", function(flights) {
-  var linksByOrigin = {},
-      countByAirport = {},
-      locationByAirport = {},
-      positions = [];
-
-  var arc = d3.geo.greatArc()
-      .source(function(d) { return locationByAirport[d.source]; })
-      .target(function(d) { return locationByAirport[d.target]; });
-
-  flights.forEach(function(flight) {
-    var origin = flight.origin,
-        destination = flight.destination,
-        links = linksByOrigin[origin] || (linksByOrigin[origin] = []);
-    links.push({source: origin, target: destination});
-    countByAirport[origin] = (countByAirport[origin] || 0) + 1;
-    countByAirport[destination] = (countByAirport[destination] || 0) + 1;
-  });
-
-  d3.csv("airports.csv", function(airports) {
+  d3.csv("Airport.csv", function(airports) {
 
     // Only consider airports with at least one flight.
     airports = airports.filter(function(airport) {
