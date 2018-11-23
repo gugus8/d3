@@ -1,0 +1,470 @@
+id,ident,type,name,latitude,longitude,elevation_ft,iso_region,city,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+26751,WADD,large_airport,Ngurah Rai (Bali) International Airport,-8.748169899,115.1669998,14,ID-BA,Denpasar-Bali Island,1,WADD,DPS,,http://www.angkasapura1.co.id/eng/location/bali.htm,http://en.wikipedia.org/wiki/Ngurah_Rai_Airport,WRRR,1200,2015-06-14T12:12:46+00:00
+26835,WIII,large_airport,Soekarno-Hatta International Airport,-6.12556982,106.6559982,34,ID-BT,Jakarta,1,WIII,CGK,,http://www.jakartasoekarnohattaairport.com/,http://en.wikipedia.org/wiki/Soekarno-Hatta_International_Airport,"JKT, Cengkareng, Java",51600,2013-02-07T12:57:41+00:00
+26787,WARJ,small_airport,Adi Sutjipto International Airport,-7.788179874,110.4319992,350,ID-YO,Yogyakarta-Java Island,1,WARJ,JOG,,,http://en.wikipedia.org/wiki/Adisucipto_International_Airport,WIIJ,450,2008-08-22T18:34:21+00:00
+26832,WIHH,medium_airport,Halim Perdanakusuma International Airport,-6.266610146,106.8909988,84,ID-JK,Jakarta,1,WIHH,HLP,,http://www.angkasapura2.co.id/cabang/hlp/content.php?menu=8&page_id=1,http://en.wikipedia.org/wiki/Halim_Perdanakusuma_International_Airport,"WIIH,WIIX,WIID",575,2009-01-02T09:06:01+00:00
+26789,WARR,large_airport,Juanda International Airport,-7.379829884,112.7870026,9,ID-JI,Surabaya,1,WARR,SUB,,http://www.juanda-airport.com/,http://en.wikipedia.org/wiki/Juanda_International_Airport,WRSJ,51150,2009-01-30T18:09:03+00:00
+299629,WADL,medium_airport,Lombok International Airport,-8.757322,116.276675,319,ID-NB,Mataram,1,WADL,LOP,,http://www.lombok-airport.co.id/,http://en.wikipedia.org/wiki/Lombok_International_Airport,Bandara Udara Internasional Lombok,0,2015-12-11T17:56:31+00:00
+26839,WIMK,medium_airport,Soewondo Air Force Base,3.559167,98.671111,114,ID-SU,Medan-Sumatra Island,0,WIMK,MES,,,http://en.wikipedia.org/wiki/Polonia_International_Airport,"Polonia International Airport, WIMM",1050,2016-01-12T14:41:48+00:00
+26745,WAAA,large_airport,Hasanuddin International Airport,-5.061629772,119.5540009,47,ID-SN,Ujung Pandang-Celebes Island,1,WAAA,UPG,,,http://en.wikipedia.org/wiki/Hasanuddin_International_Airport,,1275,2008-08-22T18:32:58+00:00
+26770,WAMM,medium_airport,Sam Ratulangi Airport,1.54926002,124.9260025,264,ID-SA,Manado-Celebes Island,1,WAMM,MDC,,,http://en.wikipedia.org/wiki/Sam_Ratulangi_Airport,,1050,2008-08-22T18:33:50+00:00
+26855,WIPP,medium_airport,Sultan Mahmud Badaruddin II Airport,-2.898250103,104.6999969,49,ID-SS,Palembang-Sumatra Island,1,WIPP,PLM,,,http://en.wikipedia.org/wiki/Sultan_Mahmud_Badaruddin_II_Airport,,975,2016-01-07T19:59:09+00:00
+26790,WARS,small_airport,Achmad Yani Airport,-6.97273,110.375,10,ID-JT,Semarang-Java Island,1,WAHS,SRG,,,http://en.wikipedia.org/wiki/Achmad_Yani_Airport,"WIIS,WARS",450,2016-10-29T09:20:41+00:00
+26788,WARQ,small_airport,Adi Sumarmo Wiryokusumo Airport,-7.516089916,110.7570038,421,ID-JT,Sukarata(Solo)-Java Island,1,WARQ,SOC,,,http://en.wikipedia.org/wiki/Adisumarmo_International_Airport,WRSQ,450,2008-08-22T18:34:21+00:00
+26824,WICC,medium_airport,Husein Sastranegara International Airport,-6.900629997,107.5759964,2436,ID-JB,Bandung-Java Island,1,WICC,BDO,,,http://en.wikipedia.org/wiki/Husein_Sastranegara_International_Airport,WIIB,875,2008-08-22T18:34:56+00:00
+26828,WIDD,medium_airport,Hang Nadim International Airport,1.121029973,104.1190033,126,ID-RI,Batam Island,1,WIDD,BTH,,,http://en.wikipedia.org/wiki/Hang_Nadim_Airport,WIKB,875,2014-12-01T04:35:24+00:00
+26749,WADA,small_airport,Selaparang Airport,-8.560709953,116.0950012,52,ID-NB,Mataram-Lombok Island,0,WADA,AMI,,,http://en.wikipedia.org/wiki/Selaparang_Airport,WRRA,450,2012-08-31T00:36:42+00:00
+26821,WIBB,medium_airport,Sultan Syarif Kasim Ii (Simpang Tiga) Airport,0.460786015,101.4449997,102,ID-RI,Pekanbaru-Sumatra Island,1,WIBB,PKU,,,http://en.wikipedia.org/wiki/Sultan_Syarif_Qasim_II_International_Airport,,925,2008-08-22T18:34:49+00:00
+26760,WALL,small_airport,Sultan Aji Muhamad Sulaiman Airport,-1.268270016,116.8939972,12,ID-KI,Kotamadya Balikpapan,1,WALL,BPN,,http://sepinggan-airport.com/,http://en.wikipedia.org/wiki/Sultan_Aji_Muhamad_Sulaiman_Airport,"WRLL, Balikpapan Airport",800,2015-02-15T12:12:48+00:00
+26746,WABB,medium_airport,Frans Kaisiepo Airport,-1.190019965,136.1080017,46,ID-PA,Biak-Supiori Island,1,WABB,BIK,,,http://en.wikipedia.org/wiki/Frans_Kaisiepo_Airport,,1050,2008-08-22T18:33:04+00:00
+26755,WAJJ,medium_airport,Sentani Airport,-2.576950073,140.5160065,289,ID-PA,Jayapura-Papua Island,1,WAJJ,DJJ,,,http://en.wikipedia.org/wiki/Sentani_Airport,,1025,2008-08-22T18:33:14+00:00
+26862,WITT,medium_airport,Sultan Iskandar Muda International Airport,5.522872024,95.42063713,65,ID-AC,Banda Aceh,1,WITT,BTJ,,,http://en.wikipedia.org/wiki/Sultan_Iskandar_Muda_International_Airport,WIAB,925,2013-09-06T04:22:40+00:00
+26756,WAJW,medium_airport,Wamena Airport,-4.10251,138.957001,5085,ID-PA,Wamena-Papua Island,1,WAJW,WMX,,,https://en.wikipedia.org/wiki/Wamena_Airport,,550,2018-09-15T16:20:45+00:00
+309577,WIMM,large_airport,Kualanamu International Airport,3.642222,98.885278,23,ID-SU,,0,WIMM,KNO,,http://www.kualanamu-airport.co.id/,https://en.wikipedia.org/wiki/Kualanamu_International_Airport,,0,2016-05-31T10:27:35+00:00
+26858,WIPT,medium_airport,Minangkabau International Airport,-0.786917,100.280998,18,ID-SB,Ketaping/Padang - Sumatra Island,1,WIEE,PDG,,http://minangkabau-airport.co.id/en/general/about-us,http://en.wikipedia.org/wiki/Minangkabau_International_Airport,,975,2018-05-05T15:20:29+00:00
+26748,WABP,medium_airport,Moses Kilangin Airport,-4.528279781,136.8869934,103,ID-PA,Timika-Papua Island,1,WABP,TIM,,,http://en.wikipedia.org/wiki/Timika_Airport,,825,2008-08-22T18:33:08+00:00
+26833,WIHL,medium_airport,Tunggul Wulung Airport,-7.645060062,109.0339966,69,ID-JT,Cilacap-Java Island,1,WIHL,CXP,,,http://en.wikipedia.org/wiki/Tunggul_Wulung_Airport,WIIL,550,2012-08-30T23:00:46+00:00
+26801,WATT,small_airport,El Tari Airport,-10.17160034,123.6709976,335,ID-NT,Kupang-Timor Island,1,WATT,KOE,,,http://en.wikipedia.org/wiki/El_Tari_Airport,WRKK,450,2009-06-27T22:07:32+00:00
+26784,WAPP,medium_airport,"Pattimura Airport, Ambon",-3.710259914,128.0890045,33,ID-MA,Ambon,1,WAPP,AMQ,,,http://en.wikipedia.org/wiki/Pattimura_Airport,,800,2014-08-17T23:51:04+00:00
+26794,WASR,medium_airport,Rendani Airport,-0.891833007,134.048996,23,ID-PB,Manokwari-Papua Island,1,WASR,MKW,,,http://en.wikipedia.org/wiki/Rendani_Airport,,800,2008-08-22T18:34:36+00:00
+26836,WIMB,medium_airport,Binaka Airport,1.16638,97.704697,20,ID-SU,Gunung Sitoli-Nias Island,1,WIMB,GNS,,,https://en.wikipedia.org/wiki/Binaka_Airport,,550,2018-09-16T04:11:44+00:00
+26827,WIAT,medium_airport,Radin Inten II (Branti) Airport,-5.240556,105.175556,282,ID-LA,Bandar Lampung-Sumatra Island,1,WICT,TKG,,,http://en.wikipedia.org/wiki/Radin_Inten_II_Airport,WIIT,450,2012-11-05T08:38:20+00:00
+26850,WIPA,small_airport,Sultan Thaha Airport,-1.638020039,103.6439972,82,ID-JA,Jambi-Sumatra Island,1,WIPA,DJB,,,http://en.wikipedia.org/wiki/Sultan_Thaha_Airport,,450,2008-08-22T18:35:16+00:00
+26800,WATO,small_airport,Komodo Airport,-8.48666,119.889,66,ID-NT,Labuan Bajo - Flores Island,1,WATO,LBJ,,,http://en.wikipedia.org/wiki/Komodo_Airport,"Mutiara II Airport, WRKO",350,2018-05-05T15:18:51+00:00
+32634,WAXX,large_airport,Dominique Edward Osok Airport,-0.894,131.287,10,ID-PB,Sorong-Papua Island,1,WASS,SOQ,,,http://en.wikipedia.org/wiki/Dominique_Edward_Osok_Airport,WAXX,50,2015-06-14T15:18:14+00:00
+26847,WIOO,medium_airport,Supadio Airport,-0.150711,109.4039993,10,ID-KB,Pontianak-Borneo Island,1,WIOO,PNK,,,http://en.wikipedia.org/wiki/Supadio_Airport,,925,2008-08-22T18:35:16+00:00
+26757,WAKK,medium_airport,Mopah Airport,-8.520290375,140.4179993,10,ID-PA,Merauke-Papua Island,1,WAKK,MKQ,,,http://en.wikipedia.org/wiki/Mopah_Airport,,800,2008-08-22T18:33:23+00:00
+26769,WAML,medium_airport,Mutiara Airport,-0.918542027,119.9100037,284,ID-ST,Palu-Celebes Island,1,WAML,PLW,,,http://en.wikipedia.org/wiki/Mutiara_Airport,,800,2008-08-22T18:33:48+00:00
+26747,WABI,medium_airport,Nabire Airport,-3.36818,135.496002,20,ID-PA,Nabire-Papua Island,1,WABI,NBX,,,https://en.wikipedia.org/wiki/Nabire_Airport,,550,2018-09-15T16:22:30+00:00
+26779,WAOO,small_airport,Syamsudin Noor Airport,-3.442359924,114.7630005,66,ID-KS,Banjarmasin-Borneo Island,1,WAOO,BDJ,,,http://en.wikipedia.org/wiki/Syamsudin_Noor_Airport,WRBB,450,2008-08-22T18:34:00+00:00
+26806,WAWW,small_airport,Wolter Monginsidi Airport,-4.081610203,122.4179993,538,ID-SG,Kendari-Celebes Island,1,WAWW,KDI,,,http://en.wikipedia.org/wiki/Ketapang_Airport,WAAU,450,2008-08-22T18:34:44+00:00
+26785,WARA,small_airport,Abdul Rachman Saleh Airport,-7.926559925,112.7149963,1726,ID-JI,Malang-Java Island,1,WARA,MLG,,,http://en.wikipedia.org/wiki/Abdul_Rachman_Saleh_Airport,WIAS,450,2012-08-30T23:13:00+00:00
+26780,WAOP,small_airport,Tjilik Riwut Airport,-2.225130081,113.9430008,82,ID-KT,Palangkaraya-Kalimantan Tengah,1,WAOP,PKY,,,http://en.wikipedia.org/wiki/Tjilik_Riwut_Airport,WRBP,450,2016-01-13T00:21:42+00:00
+26842,WIOD,small_airport,Buluh Tumbang (H A S Hanandjoeddin) Airport,-2.74571991,107.7549973,164,ID-BB,Tanjung Pandan-Belitung Island,1,WIOD,TJQ,,,http://en.wikipedia.org/wiki/Buluh_Tumbang_Airport,WIKD,450,2013-12-21T14:02:04+00:00
+26852,WIPK,small_airport,Pangkal Pinang (Depati Amir) Airport,-2.162199974,106.1389999,109,ID-BB,Pangkal Pinang-Palaubangka Island,1,WIPK,PGK,,,http://en.wikipedia.org/wiki/Pangkalpinang_Airport,WIKK,350,2013-12-21T14:05:24+00:00
+26837,WIME,medium_airport,Aek Godang Airport,1.4001,99.430496,922,ID-SU,Padang Sidempuan-Sumatra Island,1,WIME,AEG,,,https://en.wikipedia.org/wiki/Aek_Godang_Airport,,250,2016-02-13T17:01:15+00:00
+26795,WASS,closed,Jefman Airport,-0.926357985,131.1210022,10,ID-PB,Sorong-Papua Island,0,,,,,http://en.wikipedia.org/wiki/Jefman_Airport,"SOQ, WASS",825,2015-05-28T09:01:09+00:00
+26791,WASF,medium_airport,Fakfak Airport,-2.920190096,132.2669983,462,ID-PB,Fakfak-Papua Island,1,WASF,FKQ,,,http://en.wikipedia.org/wiki/Fakfak_Airport,,800,2008-08-22T18:34:28+00:00
+26792,WASK,medium_airport,Kaimana Airport,-3.644520044,133.6959991,19,ID-PB,Kaimana-Papua Island,1,WASK,KNG,,,http://en.wikipedia.org/wiki/Kaimana_Airport,,800,2008-08-22T18:34:31+00:00
+26844,WIOK,medium_airport,Ketapang(Rahadi Usman) Airport,-1.816640019,109.9629974,46,ID-KB,Ketapang-Borneo Island,1,WIOK,KTG,,,http://en.wikipedia.org/wiki/Ketapang_Airport,,800,2008-08-22T18:35:16+00:00
+26838,WIMG,medium_airport,Tabing Airport,-0.874989,100.351997,9,ID-SB,Padang-Sumatra Island,1,WIMG,,,,http://en.wikipedia.org/wiki/Tabing_Airport,,800,2018-04-26T13:21:30+00:00
+26773,WAMT,medium_airport,Sultan Khairun Babullah Airport,0.831413984,127.3809967,49,ID-MU,Sango-Ternate Island,1,WAMT,TTE,,,http://en.wikipedia.org/wiki/Babullah_Airport,,800,2008-08-22T18:33:56+00:00
+26849,WIOS,medium_airport,Sintang(Susilo) Airport,0.063619003,111.4729996,98,ID-KB,Sintang-Borneo Island,1,WIOS,SQG,,,http://en.wikipedia.org/wiki/Sintang_Airport,,800,2008-08-22T18:35:16+00:00
+26797,WATE,small_airport,Ende (H Hasan Aroeboesman) Airport,-8.849289894,121.6610031,49,ID-NT,Ende-Flores Island,1,WATE,ENE,,,http://en.wikipedia.org/wiki/Ende_Airport,WRKE,450,2012-08-31T00:20:47+00:00
+26767,WAMG,small_airport,Jalaluddin Airport,0.637118995,122.8499985,105,ID-GO,Gorontalo-Celebes Island,1,WAMG,GTO,,,http://en.wikipedia.org/wiki/Jalaluddin_Airport,,450,2013-12-21T13:50:24+00:00
+26759,WALK,medium_airport,Kalimarau Airport,2.1555,117.431999,59,ID-KI,Tanjung Redeb - Borneo Island,1,WAQT,BEJ,,,https://en.wikipedia.org/wiki/Kalimarau_Airport,"Berau Airport, WALK, WRLK",450,2018-05-05T15:23:27+00:00
+26762,WALR,medium_airport,Juwata Airport,3.326667,117.569444,23,ID-KU,Tarakan Island,1,WAQQ,TRK,TRK,http://www.tarakan-airport.com,http://en.wikipedia.org/wiki/Juwata_Airport,"WRLR, WALR, WAQQ, TRK, JUWATA, TARAKAN",450,2016-05-20T09:37:21+00:00
+41423,WAJB,small_airport,Bokondini Airport,-3.6822,138.6755,4550,ID-PA,Bokondini,1,WAJB,BUI,,,http://en.wikipedia.org/wiki/Bokondini_Airport,,350,2013-12-19T02:02:21+00:00
+26861,WITM,small_airport,Malikus Saleh Airport,5.226679802,96.95030212,90,ID-AC,Lhok Seumawe-Sumatra Island,1,WITM,LSW,,,,,350,2008-08-22T18:35:28+00:00
+26859,WITB,small_airport,Maimun Saleh Airport,5.874129772,95.33969879,393,ID-AC,Sabang-We Island,1,WITN,SBG,,,http://en.wikipedia.org/wiki/Maimun_Saleh_Airport,WIAA WITB,350,2013-01-11T09:07:05+00:00
+41371,ID-IUL,small_airport,Ilu Airport,-3.7051,138.2002,6408,ID-PA,Ilu-Papua Island,0,WABE,IUL,,,,,50,2013-12-28T00:46:18+00:00
+26834,WIHP,small_airport,Pondok Cabe Air Base,-6.336959839,106.7649994,200,ID-JK,Jakarta,0,WIHP,PCB,,,http://en.wikipedia.org/wiki/Pondok_Cabe_Airport,"WIPC,WIIP",50,2009-01-02T09:08:03+00:00
+31200,ID-FOO,small_airport,Kornasoren Airfield,-0.936325014,134.871994,13,ID-PA,Kornasoren-Numfoor Island,1,WABF,FOO,WA23,,http://en.wikipedia.org/wiki/Kornasoren_Airport,,50,2012-08-31T01:04:48+00:00
+3272,WI1A,small_airport,Nusawiru Airport,-7.720389843,108.4899979,16,ID-JB,Pangandaran-Java Island,0,WI1A,,WI1A,,,,50,2008-08-22T18:32:53+00:00
+41425,WAJI,small_airport,Sarmi Airport,-1.86954999,138.75,10,ID-PA,Sarmi-Papua Island,0,WAJI,ZRM,,,http://id.wikipedia.org/wiki/Bandar_Udara_Mararena,"Mararena, Orai",50,2014-02-17T23:54:05+00:00
+41419,WABO,small_airport,Serui Airport,-1.875579953,136.2409973,50,ID-PA,Serui-Japen Island,0,WABO,ZRI,,,,,50,2008-08-22T18:33:08+00:00
+26853,WIPL,medium_airport,Fatmawati Soekarno Airport,-3.8637,102.338997,50,ID-BE,Bengkulu-Sumatra Island,1,WIGG,BKS,,,http://en.wikipedia.org/wiki/Padangkemiling_Airport,"BKS, WIGG, WIPL, BENGKULU",800,2016-05-20T09:49:15+00:00
+26783,WAPL,medium_airport,Dumatumbun Airport,-5.66162014,132.7310028,10,ID-MA,Langgur-Seram Island,1,WAPL,LUV,,,http://en.wikipedia.org/wiki/Dumatubin_Airport,,800,2008-10-11T13:53:24+00:00
+26822,WIBD,medium_airport,Pinang Kampai Airport,1.60919,101.433998,55,ID-RI,Dumai-Sumatra Island,1,WIBD,DUM,,,https://en.wikipedia.org/wiki/Pinang_Kampai_Airport,,550,2016-09-29T16:30:24+00:00
+26768,WAMH,medium_airport,Naha Airport,3.683209896,125.5279999,16,ID-SA,Tahuna-Sangihe Island,1,WAMH,NAH,,,,,550,2008-08-22T18:33:43+00:00
+26856,WIPQ,medium_airport,Pendopo Airport,-3.286070108,103.8799973,184,ID-SS,Talang Gudang-Sumatra Island,1,WIPQ,PDO,,,,,550,2008-08-22T18:35:25+00:00
+26750,WADB,small_airport,Muhammad Salahuddin Airport,-8.539649963,118.6869965,3,ID-NB,Bima-Sumbawa Island,1,WADB,BMU,,,http://en.wikipedia.org/wiki/Bima_Airport,"WRRB, PBW, Palibelo Airport",450,2015-12-31T17:06:35+00:00
+35277,WALJ,small_airport,Datadawai Airport,0.8106,114.5306,508,ID-KI,Datadawai-Borneo Island,1,WALJ,DTD,,,http://en.wikipedia.org/wiki/Datadawai_Airport,,450,2016-01-14T15:46:08+00:00
+26796,WATC,small_airport,Maumere(Wai Oti) Airport,-8.640649796,122.2369995,115,ID-NT,Maumere-Flores Island,1,WATC,MOF,,,http://en.wikipedia.org/wiki/Wai_Oti_Airport,WRKC,450,2012-08-31T00:40:21+00:00
+26777,WAOI,small_airport,Iskandar Airport,-2.705199957,111.6729965,75,ID-KT,Pangkalanbun-Borneo Island,1,WAOI,PKN,,,http://en.wikipedia.org/wiki/Iskandar_Airport,WRBI,450,2013-12-20T20:34:34+00:00
+26763,WALS,medium_airport,Temindung Airport,-0.484530985,117.1569977,33,ID-KI,Samarinda,1,WALS,SRI,,,http://en.wikipedia.org/wiki/Temindung_Airport,WRLS,450,2014-08-19T11:49:09+00:00
+26781,WAOS,small_airport,Sampit(Hasan) Airport,-2.499190092,112.9749985,50,ID-KT,Sampit-Borneo Island,1,WAOS,SMQ,,,http://en.wikipedia.org/wiki/Sampit_Airport,WRBS,450,2016-01-13T00:18:29+00:00
+26752,WADS,small_airport,Sumbawa Besar Airport,-8.489040375,117.4120026,16,ID-NB,Sumbawa Island,1,WADS,SWQ,,,,WRRS,450,2008-08-22T18:33:10+00:00
+26778,WAON,medium_airport,Warukin Airport,-2.216559887,115.435997,197,ID-KS,Tanta-Tabalong-Borneo Island,1,WAON,TJG,,,http://id.wikipedia.org/wiki/Bandar_Udara_Warukin,WRBN,450,2010-07-17T10:54:03+00:00
+26754,WADW,small_airport,Umbu Mehang Kunda Airport,-9.66922,120.302002,33,ID-NT,Waingapu-Sumba Island,1,WATU,WGP,,,http://en.wikipedia.org/wiki/Mau_Hau_Airport,"WRRW, WADW, WATU, Mau Hau Airport, Waingapu Airport",450,2018-03-20T13:00:18+00:00
+26799,WATM,small_airport,Mali Airport,-8.132340431,124.5970001,10,ID-NT,Alor Island,1,WATM,ARD,,,,,350,2008-08-22T18:34:42+00:00
+31730,WAOK,small_airport,Gusti Syamsir Alam Airport,-3.29472,116.165001,4,ID-KS,Stagen - Laut Island,1,WAOK,KBU,,,https://en.wikipedia.org/wiki/Gusti_Syamsir_Alam_Airport,"WRBK, Stagen Airport",350,2018-05-11T03:31:36+00:00
+26830,WIDN,small_airport,Raja Haji Fisabilillah International Airport,0.922683001,104.5319977,52,ID-RI,Tanjung Pinang-Bintan Island,1,WIDN,TNJ,,,http://en.wikipedia.org/wiki/Raja_Haji_Fisabilillah_Airport,WIKN,350,2014-12-01T04:31:31+00:00
+26753,WADT,small_airport,Tambolaka Airport,-9.40972,119.244003,161,ID-NT,Waikabubak-Sumba Island,1,WATK,TMC,,,https://en.wikipedia.org/wiki/Tambolaka_Airport,"WRRT, WADT",350,2018-03-08T23:53:27+00:00
+26774,WAMW,medium_airport,Syukuran Aminuddin Amir Airport,-1.03892,122.772003,56,ID-ST,Luwok - Celebes Island,0,WAMW,LUW,,,https://en.wikipedia.org/wiki/Syukuran_Aminuddin_Amir_Airport,Bubung Airport,250,2018-05-05T15:19:15+00:00
+26843,WIOG,medium_airport,Nanga Pinoh Airport,-0.348868996,111.7480011,123,ID-KB,Nanga Pinoh-Borneo Island,1,WIOG,NPO,,,https://en.wikipedia.org/wiki/Nanga_Pinoh_Airport,,250,2015-12-19T19:50:14+00:00
+26771,WAMP,medium_airport,Kasiguncu Airport,-1.416749954,120.6579971,174,ID-ST,Poso-Celebes Island,0,WAMP,PSJ,,,http://en.wikipedia.org/wiki/Kasiguncu_Airport,,250,2012-08-31T00:05:40+00:00
+26857,WIPR,medium_airport,Japura Airport,-0.352807999,102.3349991,62,ID-RI,Rengat-Sumatra Island,0,WIPR,RGT,,,,,250,2008-08-22T18:35:25+00:00
+41361,ID-AAS,small_airport,Apalapsili Airport,-3.8832,139.3108,3100,ID-PA,Apalapsili,0,,AAS,APA,,https://en.wikipedia.org/wiki/Apalapsili_Airport,,50,2016-06-01T05:34:25+00:00
+41389,WAPC,small_airport,Bandanaira Airport,-4.5214,129.9054,100,ID-MA,Banda-Naira Island,1,WAPC,NDA,,,https://en.wikipedia.org/wiki/Bandanaira_Airport,Banda-Naira,50,2016-01-04T16:33:43+00:00
+3273,WI1B,small_airport,Batujajar Airport,-6.903860092,107.4759979,2500,ID-JB,Bandung-Java Island,0,WI1B,,WIIB,,,suparlan,50,2010-07-19T02:31:56+00:00
+26854,WIPO,small_airport,Gatot Subrato Airport,-4.391769886,104.401001,450,ID-LA,Batu Raja-Sumatra Island,0,WIPO,,,,,,50,2008-08-22T18:35:21+00:00
+41448,WASB,small_airport,Stenkol Airport,-2.1033,133.5164,57,ID-PB,Bintuni,0,WASB,NTI,,,,"ZKL, Steenkool",50,2013-12-19T00:49:34+00:00
+30806,WRLC,small_airport,Bontang Airport,0.119691,117.474998,49,ID-KI,Bontang-Borneo Island,1,WALC,BXT,,,https://en.wikipedia.org/wiki/PT_Badak_Bontang_Airport,WRLC,50,2018-09-13T13:55:35+00:00
+26825,WICD,small_airport,Penggung Airport,-6.756140232,108.5400009,89,ID-JB,Cirebon-Java Island,0,WICD,CBN,WIIC,,http://en.wikipedia.org/wiki/Penggung_Airport,"cakrabhuwana, cakrabuana",50,2012-08-30T22:57:30+00:00
+41368,ID-DRH,small_airport,Dabra Airport,-3.2705,138.6132,208,ID-PA,Dabra-Papua Island,0,WAJC,DRH,,,,,50,2013-12-20T23:07:36+00:00
+41369,ID-ELR,small_airport,Elelim Airport,-3.7826,139.3861,1490,ID-PA,Elelim-Papua Island,0,WAJN,ELR,,,,,50,2013-12-21T13:09:33+00:00
+41420,WABT,small_airport,Enarotali Airport,-3.925899982,136.3769989,5807,ID-PA,Enarotali-Papua Island,0,WABT,EWI,,,,,50,2008-08-22T18:33:09+00:00
+41417,WABL,small_airport,Illaga Airport,-3.97648,137.6225,7989,ID-PA,Illaga-Papua Island,0,WABL,ILA,,,,Ilaga PuncaK airport,50,2013-12-23T02:53:47+00:00
+41380,ID-KWB,small_airport,Dewadaru Airport,-5.80091,110.47838,35,ID-JT,Karimunjawa-Karimunjawa Island,0,WARU,KWB,,,,"dewa daru,",50,2013-12-21T11:37:16+00:00
+41372,ID-KBF,small_airport,Karubaga Airport,-3.684,138.479,5200,ID-PA,Karubaga-Papua Island,0,WABK,KBF,,,,,50,2013-12-29T10:30:02+00:00
+41381,ID-LLN,small_airport,Kelila Airport,-3.75,138.6666718,9092,ID-PA,Kelila-Papua Island,0,,LLN,,,,,50,2008-08-22T18:32:40+00:00
+41446,WAPQ,small_airport,Kisar Airport,-8.018489838,127.1969986,6,ID-NT,Kisar-Kisar Island,0,WAPQ,,,,,,50,2008-08-22T18:34:18+00:00
+41394,ID-PUM,small_airport,Pomala Airport,-4.181089878,121.6179962,88,ID-SG,Kolaka,0,WAWP,PUM,,,,WAAP,50,2016-01-15T22:31:30+00:00
+32655,WITG,small_airport,Lasikin Airport,2.410279989,96.32559967,19,ID-AC,Lubang-Simeulue Island,0,WITG,,,,,,50,2008-08-22T18:35:28+00:00
+41459,WIKL,small_airport,Silampari Airport,-3.277750015,102.901001,371,ID-SS,Lubuk Linggau-Sumatra Island,0,WIKL,,LLG,http://hubud.dephub.go.id/?en+info_bandara+detail+100,http://id.wikipedia.org/wiki/Bandar_Udara_Silampari,,50,2012-11-23T09:29:22+00:00
+26786,WARI,small_airport,Iswahyudi Airport,-7.615769863,111.4339981,361,ID-JI,Madiun-Java Island,0,WARI,,,,,WIAR,50,2008-08-22T18:34:21+00:00
+41414,WAAT,small_airport,Makale Airport,-3.10935998,119.8560028,2711,ID-SN,Makale-Celebes Island,0,WAAT,,,,,,50,2011-10-07T01:04:11+00:00
+26803,WAWM,small_airport,Andi Jemma Airport,-2.558039904,120.3239975,164,ID-SN,Masamba-Celebes Island,0,WAWM,MXB,,,,WAAM,50,2008-08-22T18:34:44+00:00
+41424,WAJD,small_airport,Wakde Airport,-1.935289979,139.0200043,3,ID-PA,Masi Masi Island,0,WAJD,,,,,,50,2008-08-22T18:33:13+00:00
+41415,WABD,small_airport,Moanamani Airport,-3.983402014,136.0832977,5204,ID-PA,Moanamani-Papua Island,0,WABD,ONI,,,,,50,2008-08-22T18:33:05+00:00
+41468,WIPU,small_airport,Muko Muko Airport,-2.541860104,101.0879974,24,ID-JA,Muko Muko-Sumatra Island,0,WIPU,MPC,,,,,50,2008-08-22T18:35:26+00:00
+41427,WAJM,small_airport,Mulia Airport,-3.7018,137.957,6527,ID-PA,Mulia-Papua Island,0,WABQ,LII,,,,WAJM,50,2015-02-21T22:51:14+00:00
+41428,WAJO,small_airport,Oksibil Airport,-4.9071,140.6277,4315,ID-PA,Oksibil-Papua Island,1,WAJO,OKL,,,https://id.wikipedia.org/wiki/Bandar_Udara_Oksibil,Gunung Bintang,50,2015-09-11T07:49:27+00:00
+26829,WIDE,small_airport,Pasir Pangaraan Airport,0.84543103,100.3700027,151,ID-RI,Pasir Pengarayan-Sumatra Island,0,WIDE,PPR,,,,,50,2008-08-22T18:35:00+00:00
+31889,WITC,small_airport,Seunagan Airport,4.25,96.21700287,10,ID-AC,Peureumeue-Sumatra Island,0,WITC,MEQ,,,,,50,2008-08-22T18:35:28+00:00
+3274,WI1C,small_airport,Rumpin Airport,-6.373219967,106.6220016,223,ID-JB,Rumpin-Java Island,0,WI1C,,WI1C,,,,50,2008-08-22T18:32:57+00:00
+26798,WATG,small_airport,Frans Sales Lega Airport,-8.597009659,120.4769974,3510,ID-NT,Satar Tacik-Flores Island,1,WATG,RTG,,,http://en.wikipedia.org/wiki/Frans_Sales_Lega_Airport,"WRKG, Satar Tacik Airport",50,2015-05-16T10:21:39+00:00
+41485,WRLL,closed,[Duplicate] Balikpapan Airport,-1.269928,116.891056,8,ID-KI,Seppingan-Borneo Island,0,WRLL,,,,,,50,2016-06-17T04:00:18+00:00
+42251,WAPV,small_airport,"Wahai,Seram Island",-2.8114,129.484,558,ID-MA,Seram Island,0,WAPV,WBA,,,,WT56,50,2014-04-05T15:45:13+00:00
+26841,WIMS,small_airport,Dr Ferdinand Lumban Tobing Airport,1.55594,98.888901,33,ID-SU,Sibolga-Sumatra Island,1,WIMS,FLZ,,,https://en.wikipedia.org/wiki/Ferdinand_Lumban_Tobing_Airport,Pinangsori Airport,50,2018-03-18T12:45:29+00:00
+26840,WIMN,small_airport,Silangit Airport,2.25973,98.991898,4700,ID-SU,Siborong-Borong,1,WIMN,DTB,,http://silangit-airport.co.id/,https://en.wikipedia.org/wiki/Silangit_Airport,"Lake Toba, North Tapanuli",50,2016-05-27T23:02:47+00:00
+41497,ID-0008,small_airport,Berau Airport,2.163500071,117.6869965,39,ID-KI,Sokan-Borneo Island,0,,,,,,,50,2015-02-15T03:48:27+00:00
+26804,WAWS,small_airport,Soroako Airport,-2.531199932,121.3580017,1388,ID-SN,Soroako-Celebes Island,0,WAWS,SQR,,,,WAAS,50,2008-08-22T18:34:44+00:00
+41491,WRSP,closed,Tanjung Perak Airport,-7.22,112.72,9,ID-JI,Surabaya-Java Island,0,,,,,,WRSP,50,2016-02-05T17:19:07+00:00
+41437,WAKT,small_airport,Tanah Merah Airport,-6.099219799,140.2980042,57,ID-PA,Tanah Merah-Papua Island,0,WAKT,TMH,,,,,50,2008-08-22T18:33:26+00:00
+26826,WICM,small_airport,Cibeureum Airport,-7.346600056,108.2460022,1148,ID-JB,Tasikmalaya-Java Island,0,WICM,TSY,,,,"WIAM, wiriadinata",50,2010-07-19T02:35:07+00:00
+3276,WI1S,small_airport,Simpangtiga Redelong Airport,4.720880032,96.85119629,4636,ID-AC,Tingkeum-Sumatra Island,0,WI1S,,WI1S,,,,50,2008-08-22T18:32:57+00:00
+41403,ID-TMY,small_airport,Tiom Airport,-3.9256,138.4555,6931,ID-PA,Tiom-Papua Island,0,,TMY,TMI,,,,50,2016-05-27T17:31:22+00:00
+3270,WA44,small_airport,Maranggo Airport,-5.764570236,123.9169998,169,ID-SG,Waha-Tomea Island,0,WA44,TQQ,WA44,,https://id.wikipedia.org/wiki/Bandar_Udara_Maranggo,,50,2015-11-26T05:45:20+00:00
+41453,WASW,small_airport,Wasior Airport,-2.721,134.5061,49,ID-PB,Wasior-Papua Island,0,WASW,WSR,,,,,50,2014-04-12T15:07:19+00:00
+41412,WAAL,small_airport,Ponggaluku Airport,-4.31666708,122.4666672,43,ID-SG,Wawooru-Celebes Island,0,WAWL,,,,,WAAL,50,2016-01-17T14:37:39+00:00
+38200,ID-0002,closed,Kamiri Airfield,-0.971503973,134.8090057,54,ID-PA,Kamiri-Numfoor Island,0,,,,,,,1,2013-12-20T21:07:19+00:00
+38199,ID-0001,closed,Namber Airfield,-1.073349953,134.8309937,64,ID-PA,Namber-Numfoor Island,0,,,,,,,1,2013-12-20T21:12:56+00:00
+46594,ID-0015,heliport,Discovery Helipad,-8.728055556,115.1661111,,ID-BA,,1,,,,,,,0,2010-12-24T16:54:03+00:00
+310171,ID-0026,small_airport,Angguruk Airstrip,-4.2001,139.4329,4820,ID-PA,,0,,,ANG,,,,0,2013-12-14T18:13:30+00:00
+46587,ID-0011,small_airport,Blimbingsari Airport,-8.31015,114.3401,112,ID-JI,Banyuwangi,1,WARB,BWX,BWI,,http://en.wikipedia.org/wiki/Blimbingsari_Airport,Sukojati,0,2018-04-04T01:32:04+00:00
+310250,ID-0029,small_airport,Beoga Airport,-3.8165,137.4252,6238,ID-PA,Beoga,0,,,,,,,0,2013-12-18T00:07:24+00:00
+310271,ID-0036,small_airport,Borme Airstrip,-4.3945,140.4361,3270,ID-PA,Borme,0,,,BOR,,,,0,2013-12-19T04:09:35+00:00
+310351,ID-0058,small_airport,Hing Airstrip,-1.233,133.9478,6700,ID-PB,Hing,0,,,,,,WZ02,0,2013-12-23T00:46:31+00:00
+310422,ID-0071,small_airport,Jila Airstrip,-4.24677,137.59563,4390,ID-PA,Jila,0,,,JIL,,,WZ20,0,2013-12-28T17:52:15+00:00
+310427,ID-0073,small_airport,Kanggime Airstrip,-3.6657,138.3619,4990,ID-PA,Kanggime,0,,,KAN,,,WZ28,0,2013-12-28T19:10:56+00:00
+310963,ID-0125,closed,Owi Airfield,-1.2455,136.2091,83,ID-PA,Owi Island,0,,,,,http://en.wikipedia.org/wiki/Owi_Airfield,,0,2014-02-09T12:01:41+00:00
+46589,ID-0013,small_airport,Letkol Wisnu Airstrip,-8.140555556,114.6166667,66,ID-BA,Pemuteran,1,,,BIFA,,http://en.wikipedia.org/wiki/Lt.Col._Wisnu_Airfield,"Grokgak Airport, Buleleng Airport",0,2013-12-22T17:01:44+00:00
+310904,ID-0121,small_airport,Pogapa Airstrip,-3.752,136.8457,6460,ID-PA,Pogapa,0,,,POG,,,WW68,0,2014-02-06T01:37:41+00:00
+311019,ID-0133,small_airport,Sela Airstrip,-4.5508,139.7344,6545,ID-PA,Sela,0,,,SEL,,,WW93,0,2014-02-18T01:00:12+00:00
+311151,NKD,small_airport,Sinak Airport,-3.822,137.8406,7334,ID-PA,Sinak,0,,NKD,SIN,,,WT10,0,2014-03-01T12:46:08+00:00
+311290,ID-0154,small_airport,Testega Airstrip,-1.3781,133.5952,3750,ID-PB,Testega,0,,,TES,,,WT46,0,2014-03-15T18:12:37+00:00
+26848,WIOP,medium_airport,Pangsuma Airport,0.835578024,112.9369965,297,ID-KB,Putussibau-Borneo Island,1,WIOP,PSU,,,http://en.wikipedia.org/wiki/Pangsuma_Airport,,800,2008-08-22T18:35:16+00:00
+26846,WION,medium_airport,Ranai Airport,3.90871,108.388,7,ID-RI,Ranai-Natuna Besar Island,1,WION,NTX,,,https://en.wikipedia.org/wiki/Ranai_Airport,Natuna Airport,550,2018-09-16T04:26:12+00:00
+35278,WRLP,small_airport,Long Apung Airport,1.704486,114.970297,627,ID-KU,Long Apung-Borneo Island,1,WALP,LPU,,,http://en.wikipedia.org/wiki/Long_Apung_Airport,WRLP,450,2016-01-12T23:54:36+00:00
+35279,WRLB,small_airport,Long Bawan Airport,3.9028,115.6921,3165,ID-KU,Long Bawan-Borneo Island,1,WALB,LBW,,,http://en.wikipedia.org/wiki/Long_Bawan_Airport,"WRLB, Juvai Semaring Airport, Yuvai Semaring, Long Bawang",450,2016-01-14T15:37:47+00:00
+35281,WRLF,small_airport,Nunukan Airport,4.133333333,117.6666667,30,ID-KU,Nunukan-Nunukan Island,1,WALF,NNX,,,http://en.wikipedia.org/wiki/Nunukan_Airport,,450,2016-01-12T23:49:23+00:00
+26758,WALG,small_airport,Tanjung Harapan Airport,2.835833333,117.3736111,10,ID-KU,Tanjung Selor-Borneo Island,1,WALG,TJS,,,http://en.wikipedia.org/wiki/Tanjung_Harapan_Airport,,450,2016-01-13T00:32:06+00:00
+41430,WAJS,small_airport,Senggeh Airport,-3.45,140.779,914,ID-PA,Senggeh,1,WAJS,SEH,,,,Senggi,350,2015-03-27T01:13:43+00:00
+26793,WASO,medium_airport,Babo Airport,-2.532239914,133.4389954,10,ID-PB,Babo-Papua Island,0,WASO,BXB,,,,,250,2008-08-22T18:34:34+00:00
+26772,WAMR,medium_airport,Pitu Airport,2.04598999,128.3249969,49,ID-MU,Gotalalamo-Morotai Island,0,WAMR,OTI,,,http://en.wikipedia.org/wiki/Pitu_Airport,,250,2012-08-31T00:54:40+00:00
+26860,WITL,medium_airport,Lhok Sukon Airport,5.069509983,97.25920105,28,ID-AC,Lhok Sukon-Sumatra Island,0,WITL,LSX,,,,,250,2008-08-22T18:35:28+00:00
+29639,ID-ZGP,medium_airport,Bilogai-Sugapa Airport,-3.73956,137.031998,7348,ID-PA,Sugapa-Papua Island,1,WABV,UGU,ZGP,,,"Zugapa, Bilorai, ZGP",250,2017-11-08T22:23:34+00:00
+41434,WAKG,small_airport,Agats Airport,-5.541460037,138.1333313,17,ID-PA,Agats-Papua Island,0,WAKG,,,,,,50,2008-08-22T18:33:23+00:00
+30623,WAPA,small_airport,Amahai Airport,-3.34800005,128.9259949,29,ID-MA,Amahai-Seram Island,0,WAPA,AHI,,,http://en.wikipedia.org/wiki/Amahai_Airport,,50,2012-08-31T01:11:26+00:00
+41399,ID-RUF,small_airport,Yuruf Airport,-3.6333,140.958,1844,ID-PA,Amgotro,0,WAJE,RUF,,,,,50,2015-03-27T00:49:10+00:00
+41362,ID-AGD,small_airport,Anggi Airport,-1.3858,133.8737,6644,ID-PB,Anggi-Papua Island,0,WASG,AGD,,,http://en.wikipedia.org/wiki/Anggi_Airport,,50,2013-12-14T17:57:01+00:00
+41422,WAJA,small_airport,Arso Airport,-2.93333292,140.7833405,208,ID-PA,Arso-Papua Island,0,WAJA,ARJ,,,,,50,2008-08-22T18:33:11+00:00
+41370,ID-EWE,small_airport,Ewer Airport,-5.494,138.083,27,ID-PA,Asmat,0,,EWE,,,,,50,2013-12-14T19:36:04+00:00
+41363,ID-AKQ,small_airport,Gunung Batin Airport,-4.611139774,105.2320023,99,ID-LA,Astraksetra-Sumatra Island,0,,AKQ,,,,,50,2008-08-22T16:02:04+00:00
+41475,WRKA,small_airport,Haliwen Airport,-9.073049545,124.9049988,1027,ID-NT,Atambua-Timor Island,1,WATA,ABU,,,http://en.wikipedia.org/wiki/Haliwen_Airport,WRKA,50,2014-01-11T18:26:47+00:00
+32488,WAST,small_airport,Teminabuan Airport,-1.44472003,132.0209961,141,ID-PB,Atinjoe-Papua Island,0,WAST,TXM,,,,,50,2008-08-22T18:34:39+00:00
+41365,ID-AYW,small_airport,Ayawasi Airport,-1.1593,132.4633,1560,ID-PB,Ayawasi-Papua Island,0,WASA,AYW,,,http://en.wikipedia.org/wiki/Ayawasi_Airport,,50,2014-01-11T00:04:04+00:00
+41481,WRKR,small_airport,David Constantijn Saudale Airport,-10.7673,123.0747,470,ID-NT,Ba'a - Rote Island,0,WATR,RTI,,http://rti.otoritasbandara.info/,https://en.wikipedia.org/wiki/David_Constantijn_Saudale_Airport,"WRKR, Roti Airport, Lekunik Airport",50,2018-05-11T07:14:14+00:00
+41433,WAKE,small_airport,Bade Airport,-7.714630127,139.5749969,59,ID-PA,Bade-Papua Island,0,WAKE,BXD,,,,,50,2008-08-22T18:33:22+00:00
+42249,WATB,small_airport,Bajawa Soa Airport,-8.70743498,121.0574269,4326,ID-NT,Bajawa,0,WATB,BJW,,,http://en.wikipedia.org/wiki/Bajawa_Soa_Airport,,50,2012-11-22T09:45:06+00:00
+41476,WRKB,small_airport,Pahdameleda Airport,-8.8131,120.9988,4317,ID-NT,Bajawa-Flores Island,0,WATB,,,,http://en.wikipedia.org/wiki/Pahdamaleda_Airport,"WRKB, Bajawa Airport, Bajawa Soa, Bandar Udara Soa",50,2017-05-02T06:25:11+00:00
+41388,ID-NAF,small_airport,Banaina Airport,2.723050117,117.1259995,60,ID-KU,Banaina-Borneo Island,0,,NAF,,,,,50,2016-01-12T23:57:40+00:00
+41455,WIAK,small_airport,Margahayu Airport,-6.98277998,107.572998,2184,ID-JB,Bandung-Java Island,0,WICK,,,,,"WIAK, Sulaiman",50,2014-01-25T13:44:39+00:00
+41456,WIAP,small_airport,Banyumas Airport,-6.464849949,105.9690018,92,ID-BT,Banyumas-Java Island,0,WIAP,,,,,,50,2008-08-22T18:34:49+00:00
+41367,ID-BXM,small_airport,Batom Airport,-4.166669846,140.8500061,576,ID-PA,Batom-Papua Island,0,WAJG,BXM,,,,,50,2014-06-29T22:30:32+00:00
+26775,WAOC,small_airport,Batu Licin Airport,-3.412410021,115.9950027,3,ID-KS,Batu Licin-Borneo Island,0,WAOC,BTW,,,http://id.wikipedia.org/wiki/Bandar_Udara_Bersujud,WRBC,50,2010-07-17T10:41:04+00:00
+26802,WAWB,small_airport,Betoambari Airport,-5.486879826,122.5690002,164,ID-SG,Bau Bau-Butung Island,0,WAWB,BUW,,,,WAAB,50,2008-08-22T18:34:44+00:00
+32282,WIBS,small_airport,Sungai Pakning Bengkalis Airport,1.370000005,102.1399994,3,ID-RI,Bengkalis-Sumatra Island,0,WIBS,SEQ,,,,,50,2008-08-22T18:34:52+00:00
+41465,WIOB,small_airport,Bengkayang Airport,0.833333015,109.4833298,294,ID-KB,Bengkayang-Borneo Island,0,WIOB,,,,,,50,2008-08-22T18:35:13+00:00
+41470,WIPY,small_airport,Bentayan Airport,-2.434429884,104.0920029,40,ID-SS,Bentayan-Sumatra Island,0,WIPY,,,,,,50,2008-08-22T18:35:28+00:00
+32626,WABU,small_airport,Biak Manuhua Airport,-1.173589945,136.0800018,33,ID-PA,Biak-Supiori Island,0,WABU,,,,,,50,2008-08-22T18:33:09+00:00
+41366,ID-BJG,small_airport,Boalang Airport,-0.97289598,122.1449966,146,ID-ST,Boalang-Celebes Island,0,,BJG,,,,,50,2008-08-22T16:02:07+00:00
+32632,WAPB,small_airport,Bula Airport,-3.109960079,130.5099945,10,ID-MA,Bula-Seram Island,0,WAPB,,,,,,50,2008-10-11T13:42:06+00:00
+26765,WALV,small_airport,Bunyu Airport,3.455719948,117.8669968,118,ID-KU,Bunju Island,0,WALV,BYQ,WA1C,,http://id.wikipedia.org/wiki/Bandar_Udara_Bunyu,WRLV,50,2016-01-14T15:32:28+00:00
+42267,WAOU,small_airport,"SANGGU Airport, Buntok",-1.66929996,114.8980026,23,ID-KT,Buntok,0,WAOU,,,,,,50,2008-12-19T20:12:17+00:00
+41474,WRBU,small_airport,Buntok Airport,-1.732509971,114.8389969,59,ID-KT,Buntok-Borneo Island,0,WRBU,,,,,,50,2013-12-20T20:39:40+00:00
+41405,WAMY,small_airport,Buol Airport,1.1027,121.4141,27,ID-ST,Buol-Celebes Island,1,WAMY,UOL,,,http://en.wikipedia.org/wiki/Buol_Airport,"Pogogul Airport, Pangtiku Airport",50,2013-12-19T15:20:36+00:00
+41493,ID-0004,small_airport,Cilacap Wulung Airport,-7.720570087,109.0179977,24,ID-JT,Cilacap-Java Island,0,,,,,,,50,2014-09-23T04:55:49+00:00
+30934,WAPD,small_airport,Rar Gwamar Airport,-5.772220135,134.2120056,61,ID-MA,Dobo-Warmar Island,0,WAPD,DOB,,,http://en.wikipedia.org/wiki/Dobo_Airport,,50,2014-04-06T11:03:56+00:00
+3268,WA1B,small_airport,Aru Airport,-6.573420048,134.1470032,165,ID-MA,Fekfetal / Jerdera-Trangan Island,0,WA1B,,WA1B,,,,50,2008-08-22T18:32:48+00:00
+31515,ID-GAV,small_airport,Gag Island Airport,-0.400555998,129.8950043,1,ID-PB,Gag Island,0,,GAV,,,,,50,2008-08-22T16:02:15+00:00
+31540,WAMA,small_airport,Gamarmalamo Airport,1.83833003,127.7860031,180,ID-MU,Galela-Celebes Island,0,WAMA,GLX,,,,,50,2008-08-22T18:33:35+00:00
+31523,WAMJ,small_airport,Gebe Airport,-0.078888997,129.4579926,125,ID-MU,Gebe Island,0,WAMJ,GEB,,,,,50,2008-08-22T18:33:46+00:00
+32654,WIMH,small_airport,Helvetia Airport,3.683059931,98.64420319,49,ID-SU,Helvetia-Sumatra Island,0,WIMH,,,,,,50,2008-08-22T18:35:08+00:00
+41451,WASI,small_airport,Inanwatan Airport,-2.128099918,132.1609955,9,ID-PB,Inanwatan Airport-Papua Island,0,WASI,INX,,,,,50,2008-08-22T18:34:29+00:00
+41492,ID-0003,small_airport,Pulau Panjang Airport,-5.644444,106.5625,155,ID-JB,Jakarta,0,WIHG,PPJ,,,,"WIIG, Panjang Island",50,2016-01-17T08:40:26+00:00
+41479,WRKM,small_airport,Kalabahi Airport,-8.216667175,124.5666656,33,ID-NT,Kalabahi-Alor Island,0,WRKM,,,,,,50,2008-08-22T18:35:40+00:00
+32652,WIIK,small_airport,Kalijati Airport,-6.53139019,107.6589966,361,ID-JB,Kalijati-Java Island,0,WIHK,,,,,"WIIK, Suryadarma, Kalidjati, Karichagi, Kalijaga",50,2015-09-27T02:35:26+00:00
+41373,ID-KBX,small_airport,Kambuaya Airport,-1.3169,132.2857,1422,ID-PB,Kambuaya-Papua Island,0,WASU,KBX,,,,Ayamaru,50,2013-12-27T01:54:03+00:00
+41374,ID-KCD,small_airport,Kamur Airport,-6.1851,138.6372,25,ID-PA,Kamur-Papua Island,0,WAKM,KCD,,,,,50,2013-12-27T01:24:53+00:00
+31720,WAMK,small_airport,Kao Airport,1.185279965,127.8960037,27,ID-MU,Kao-Celebes Island,0,WAMK,KAZ,,,,,50,2008-08-22T18:33:48+00:00
+31924,WAMN,small_airport,Melangguane Airport,4.00694,126.672997,3,ID-SA,Karakelong Island,0,WAMN,MNA,,,https://en.wikipedia.org/wiki/Melangguane_Airport,,50,2018-05-09T06:16:11+00:00
+42250,WARU,small_airport,Dewadaru - Kemujan Island,-5.80091,110.47838,35,ID-JT,Karimunjawa,0,WARU,KWB,,,,"Karimun Jawa, Karimun Java",50,2013-12-21T11:46:09+00:00
+41450,WASE,small_airport,Kebar Airport,-0.637100995,133.128006,2050,ID-PB,Kebar-Papua Island,0,WASE,KEQ,,,,,50,2008-08-22T18:34:26+00:00
+41376,ID-KEA,small_airport,Keisah Airport,-7.666669846,140.5,81,ID-PA,Keisah-Papua Island,0,,KEA,,,,,50,2008-08-22T16:02:20+00:00
+41469,WIPV,small_airport,Keluang Airport,-2.623529911,103.9550018,76,ID-SS,Keluang-Sumatra Island,0,WIPV,KLQ,,,,,50,2008-08-22T18:35:27+00:00
+41436,WAKP,small_airport,Kepi Airport,-6.5418,139.3318,67,ID-PA,Kepi-Papua Island,0,WAKP,KEI,,,,,50,2013-12-29T21:30:03+00:00
+42252,WAPO,small_airport,Larat Airport,-7.1282,131.7673,108,ID-MA,Kepulauan Larat,0,WAPO,,,,,,50,2014-01-01T11:39:24+00:00
+41494,ID-0005,small_airport,Ketapang Airport,-6.899862766,113.2828903,170,ID-JI,Ketapang-Madura Island,0,,,,,,,50,2008-08-22T18:36:04+00:00
+41377,ID-KMM,small_airport,Kiman Airport,-3.666670084,136.1666718,3250,ID-PA,Kiman-Papua Island,0,,KMM,,,,,50,2008-08-22T18:32:40+00:00
+41461,WIML,small_airport,Kisaran Airport,2.97378993,99.60099792,96,ID-SU,Kisaran-Sumatra Island,0,WIML,,,,,,50,2008-08-22T18:35:09+00:00
+41418,WABN,small_airport,Kokonau Airport,-4.71075,136.43515,59,ID-PA,Kokonau-Papua Island,0,WABN,KOX,,,,Kokonao,50,2013-12-29T18:29:03+00:00
+41378,ID-KOD,small_airport,Kotabangun Airport,-0.266669989,116.5833359,13,ID-KI,Kotabangun-Borneo Island,0,,KOD,,,,,50,2015-02-15T03:32:05+00:00
+41438,WAMB,small_airport,Kotamubagu/Mopait Airport,0.6835,124.2757,606,ID-SA,Kotamubagu-Celebes Island,0,WAMB,,,,,,50,2013-12-29T19:44:41+00:00
+42272,WAOL,small_airport,Kuala Pembuang Airport,-2.866669893,112.5329971,13,ID-KT,Kuala Pembuang,0,WAOL,,,,,WRBO,50,2016-01-13T00:16:51+00:00
+41467,WIPF,small_airport,Kuala Tungkal Airport,-0.81666702,103.4666672,12,ID-JA,Kuala Tungkal-Sumatra Island,0,WIPF,,,,,,50,2008-08-22T18:35:19+00:00
+32631,WAMD,small_airport,Jailolo/Kuripasai Airport,1.116999984,127.4830017,50,ID-MU,Kuripasai-Celebes Island,0,WAMD,,,,,,50,2008-08-22T18:33:39+00:00
+41444,WAPH,small_airport,"Oesman Sadik Airport, Labuha",-0.635258973,127.5019989,49,ID-MU,Labuha-Halmahera Island,0,WAPH,LAH,,,,,50,2008-10-06T16:48:51+00:00
+41460,WIMA,small_airport,Labuhan Bilik Airport,2.512900114,100.1790009,18,ID-SU,Labuhan Bilik-Sumatra Island,0,WIMA,,,,,,50,2008-08-22T18:35:08+00:00
+41478,WRKL,small_airport,Gewayentana Airport,-8.274424,123.002,63,ID-NT,Larantuka-Flores Island,1,WATL,LKA,,,http://en.wikipedia.org/wiki/Gewayantana_Airport,WRKL,50,2014-01-01T11:17:10+00:00
+41426,WAJL,small_airport,Lereh Airport,-3.0795,139.952,820,ID-PA,Lereh-Papua Island,0,WAJL,LHI,,,,,50,2014-01-01T12:06:04+00:00
+41382,ID-LWE,small_airport,Lewoleba Airport,-8.3629,123.438,25,ID-NT,Lewoleba-Lembata Island,0,WATW,LWE,,,,,50,2014-01-01T12:29:18+00:00
+41487,WRLN,small_airport,Long Mawang Airport,1.7992,114.9043,1976,ID-KU,Long Mawang-Borneo Island,0,WALN,,,,,"WRLN, Long Nawang",50,2016-01-14T15:28:23+00:00
+41383,ID-LYK,small_airport,Lunyuk Airport,-8.9889,117.2158,44,ID-NB,Lunyuk-Simbawa Island,0,WADU,LYK,,,http://id.wikipedia.org/wiki/Bandar_Udara_Lunyuk,WRRU,50,2015-02-13T17:06:06+00:00
+26782,WAPK,small_airport,Nangasuri Airport,-6.06619978,134.2740021,82,ID-MA,Maikoor Island,0,WAPK,BJK,,,,,50,2008-08-22T18:34:13+00:00
+26805,WAWT,small_airport,Pongtiku Airport,-3.044739962,119.8219986,2884,ID-SN,Makale,1,WAWT,TTR,,,https://en.wikipedia.org/wiki/Pongtiku_Airport,"WAAT, Tana Toraja",50,2015-07-05T17:38:37+00:00
+41385,ID-MPT,small_airport,Maliana airport,-8.167739868,125.0090027,957,ID-NT,Maliana-Alor Island,0,,MPT,,,,,50,2008-08-22T16:02:29+00:00
+41410,WAAI,closed,Malili Airport,-2.634166956,121.0966644,19,ID-SN,Malili-Celebes Island,0,WAWI,,,,,WAAI,50,2016-01-17T14:12:50+00:00
+41409,WAAG,small_airport,Malimpung Airport,-3.7382,119.7502,124,ID-SN,Malimpung-Celebes Island,0,WAWG,,,,,WAAG,50,2016-01-17T13:56:32+00:00
+41486,WRLM,small_airport,Malinau Airport,3.57514,116.61967,26,ID-KU,Malinau-Borneo Island,0,WALM,,,,http://en.wikipedia.org/wiki/Robert_Atty_Bessing_Airport,WRLM,50,2016-01-14T15:39:23+00:00
+41411,WAAJ,small_airport,Tampa Padang Airport,-2.583333,119.033333,49,ID-SN,Mamuju-Celebes Island,0,WAWJ,MJU,,,http://en.wikipedia.org/wiki/Tampa_Padang_Airport,,50,2012-12-03T14:26:28+00:00
+26766,WALX,small_airport,Mangkajang Airport,2.007509947,117.7490005,47,ID-KI,Mangkajang-Borneo Island,0,WALX,,,,,,50,2015-02-15T03:52:08+00:00
+41443,WAPE,small_airport,"Mangole Airport, Falabisahaya",-1.87579,125.8300018,889,ID-MU,Mangole Island,0,WAPE,MAL,,,,,50,2008-10-11T12:38:47+00:00
+41384,ID-MJY,small_airport,Mangunjaya Airport,-2.733330011,103.5670013,76,ID-SS,Mangungaya-Sumatra Island,0,,MJY,,,,,50,2008-08-22T16:02:28+00:00
+41386,ID-MSI,small_airport,Masalembo Airport,-5.583330154,114.4329987,30,ID-JI,Masalembo Island,0,,MSI,,,,,50,2008-08-22T16:02:30+00:00
+26845,WIOM,small_airport,Tarempa Airport,3.348119974,106.2580032,10,ID-RI,Matak Island,0,WIOM,MWK,,,,,50,2008-08-22T18:35:16+00:00
+26776,WAOH,small_airport,Mekar Putih Airport,-3.989909887,116.1019974,197,ID-KS,Mekar Putih-Laut Island,0,WAOH,,,,,,50,2008-08-22T18:33:58+00:00
+32629,WALE,small_airport,Melak Airport,-0.203611001,115.7600021,330,ID-KI,Melak-Borneo Island,0,WALE,,,,,WRLE,50,2015-02-15T03:15:50+00:00
+41477,WRKJ,small_airport,Mena Airport,-9.183889389,124.5891647,320,ID-NT,Mena-Timor Island,0,WRKJ,,,,,,50,2008-08-22T18:35:38+00:00
+41454,WIAG,small_airport,Menggala Airport,-4.489439964,105.2170029,98,ID-LA,Menggala-Sumatra Island,0,WIPM,,,,,"WIAG, Astrakestra",50,2014-01-25T14:17:02+00:00
+41452,WASM,small_airport,Merdei Airport,-1.583330035,133.3329926,425,ID-PB,Merdei-Papua Island,0,WASM,RDE,,,,,50,2008-08-22T18:34:32+00:00
+41432,WAKD,small_airport,Mindiptana Airport,-5.75,140.3670044,157,ID-PA,Mindiptana-Papua Island,0,WAKD,MDP,,,,,50,2008-08-22T18:33:21+00:00
+3271,ID-WA98,small_airport,Kobok Airport,1.101889968,127.7030029,114,ID-MU,Modjid-Celebes Island,0,WA98,,WA98,,,,50,2008-08-22T18:32:50+00:00
+41421,WABW,small_airport,Waren Airport,-1.628530025,134.1239929,29,ID-PB,Momi-Papua Island,0,WABW,,,,,,50,2016-01-17T21:52:47+00:00
+26761,WALQ,small_airport,Muara Badak Pujangan Airport,-0.306075007,117.4160004,49,ID-KI,Muara Badak-Borneo Island,0,WALQ,,,,,,50,2015-02-15T03:02:42+00:00
+41489,WRLW,small_airport,Muara Wahau Airport,1.1213,116.851,205,ID-KI,Muara Wahau-Borneo Island,0,WALW,,,,,WRLW,50,2015-02-15T02:57:18+00:00
+41473,WAOM,small_airport,Beringin Airport,-0.940325022,114.8938751,126,ID-KT,Murateweh-Borneo Island,1,WAOM,,,,http://en.wikipedia.org/wiki/Beringin_Airport,WRBM,50,2016-01-13T00:24:06+00:00
+41387,ID-MUF,small_airport,Muting Airport,-7.3147,140.5668,70,ID-PA,Muting,0,,MUF,,,,WW21,50,2014-01-23T01:08:06+00:00
+41480,WRKN,small_airport,Naikliu Airport,-9.495470047,123.7949982,60,ID-NT,Naikliu-Timor Island,0,WRKN,,,,,,50,2008-08-22T18:35:41+00:00
+41447,WAPR,small_airport,Namlea Airport,-3.235569954,127.0999985,41,ID-MA,Namlea-Buru Island,0,WAPR,NAM,,,,,50,2008-08-22T18:34:19+00:00
+41390,WAPG,small_airport,Namrole Airport,-3.8548,126.7012,31,ID-MA,Namrole-Buru Island,0,WAPG,NRE,,,http://en.wikipedia.org/wiki/Namrole_Airport,,50,2014-01-23T01:56:01+00:00
+41391,ID-OBD,small_airport,Obano Airport,-3.9106,136.2306,5800,ID-PA,Obano-Papua Island,0,WABR,OBD,,,,,50,2014-01-09T12:56:49+00:00
+41435,WAKO,small_airport,Okaba Airport,-8.0946,139.7233,23,ID-PA,Okaba-Papua Island,0,WAKO,OKQ,,,,,50,2014-01-09T13:14:00+00:00
+3266,ID-WA19,small_airport,Pagerungan Airport,-6.956610203,115.9309998,20,ID-JI,Pagerungan Island,0,,,,,,"West Java Islands, Pagerungan Besar, Torohhiga",50,2010-08-16T08:01:25+00:00
+41462,WIMP,small_airport,Sibisa Airport,2.666666985,98.93333435,3081,ID-SU,Parapat-Sumatra Island,0,WIMP,SIW,,,http://en.wikipedia.org/wiki/Sibisa_Airport,"Parapat Airport, Ajibata",50,2015-05-25T13:37:05+00:00
+41393,ID-PPJ,small_airport,Unknown Airport,-0.63333,103.300003,33,ID-RI,Paritsialing-Sumatra Island,0,,,,,,"Pasanggerahan, Kampungbenteng",50,2018-05-03T02:51:43+00:00
+26851,WIPD,small_airport,Banding Agung Airport,-4.787020206,103.9329987,2100,ID-LA,Pasar Bandingagung-Sumatra Island,0,WIPD,,,,,,50,2008-08-22T18:35:18+00:00
+26831,WIDS,small_airport,Dabo Airport,-0.479189008,104.5790024,95,ID-RI,Pasirkuning-Singkep Island,0,WIDS,SIQ,,,,WIKS,50,2008-08-22T18:35:00+00:00
+41458,WIIR,small_airport,Pelabuhan Ratu Airport,-6.976666927,106.5327759,65,ID-JB,Pelabuhan Ratu-Java Island,0,WIIR,,,,,,50,2008-08-22T18:35:06+00:00
+41463,WIMR,small_airport,Pematang Siantar,2.950000048,99.05000305,1361,ID-SU,Pematang Siantar-Sumatra Island,0,WIMR,,,,,,50,2008-08-22T18:35:11+00:00
+41395,ID-PWL,small_airport,Purwokerto Airport,-7.461669922,109.4169998,225,ID-JT,Purwokerto-Java Island,0,WICP,PWL,,,http://en.wikipedia.org/wiki/Purwokerto_Airport,"WIAP, Wirasaba, Purbalingga",50,2014-02-13T00:16:41+00:00
+41396,ID-RAQ,small_airport,Sugimanuru Airport,-4.760557,122.569371,132,ID-SG,Raha-Muna Island,0,WAWR,RAQ,,,http://en.wikipedia.org/wiki/Sugimanuru_Airport,WAAR,50,2018-05-11T07:04:50+00:00
+41449,WASC,small_airport,Abresso Airport,-1.496771,134.175,52,ID-PB,Ransiki-Papua Island,0,WASC,RSK,,,,,50,2017-05-26T10:30:39+00:00
+41397,ID-RKI,small_airport,Rokot Airport,-0.949999988,100.75,4975,ID-SB,Rokot-Sumatra Island,0,,RKI,,,,,50,2008-08-22T16:02:41+00:00
+41398,ID-RTI,small_airport,Roti Airport,-10.48429966,123.3740005,65,ID-NT,Roti-Rote Island,0,,RTI,,,,,50,2008-08-22T16:02:42+00:00
+41482,WRKS,small_airport,Sabu-Tardanu Airport,-10.4924,121.8482,71,ID-NT,Sabu-Sawu Island,0,WATS,SAU,,,http://id.wikipedia.org/wiki/Bandar_Udara_Tardamu,"WRKS, Tardamu, Sawu",50,2014-02-15T03:34:38+00:00
+41445,WAPN,small_airport,Emalamo Sanana Airport,-2.080509901,125.9670029,39,ID-MU,Sanana-Seram Island,0,WAPN,SQN,,,,,50,2008-10-10T17:22:13+00:00
+41483,WRLA,small_airport,Sanggata/Sangkimah Airport,0.3847,117.543,60,ID-KI,Sanggata/Sangkimah,0,WALA,SGQ,,,http://id.wikipedia.org/wiki/Bandar_Udara_Sangkimah,"WRLA, Pertamina",50,2014-03-02T10:44:35+00:00
+41401,ID-SAE,small_airport,Sangir Airport,-8.366669655,118.3333588,175,ID-NB,Sangir-Simbawa Island,0,,SAE,,,,,50,2008-08-22T18:32:40+00:00
+41488,WRLU,small_airport,Sangkulirang Airport,1.000890017,117.9960022,34,ID-KI,Sangkulirang-Borneo Island,0,WRLU,,,,,,50,2015-02-15T03:41:43+00:00
+26764,WALT,small_airport,Tanjung Santan Airport,-0.092973001,117.4530029,121,ID-KI,Santan-Borneo Island,0,WALT,TSX,,,,WRLT,50,2015-02-15T03:05:33+00:00
+32407,WAPI,small_airport,Saumlaki/Olilit Airport,-7.988609791,131.3059998,218,ID-MA,Saumlaki-Yamdena Island,0,WAPI,SXK,,,http://id.wikipedia.org/wiki/Bandar_Udara_Olilit,,50,2014-02-18T00:27:47+00:00
+41400,ID-RZS,small_airport,Sawan Airport,-8.132780075,115.1729965,680,ID-BA,Sawan-Bali Island,0,,RZS,,,,,50,2008-08-22T16:02:44+00:00
+41408,ID-ZEG,small_airport,Senggo Airport,-5.6908,139.3502,52,ID-PA,Senggo-Papua Island,0,WAKQ,ZEG,,,http://id.wikipedia.org/wiki/Bandar_Udara_Senggo,,50,2014-03-01T02:41:33+00:00
+41490,WRLY,heliport,Senipah Heliport,-0.975679,117.147701,38,ID-KI,Senipah,0,WALY,SZH,,,,"WRLY, WW98",50,2014-03-01T22:58:15+00:00
+41472,WITS,small_airport,Seumayam Airport,3.75,96.6333313,53,ID-AC,Seumayam-Sumatra Island,0,WITS,,,,,,50,2008-08-22T18:35:29+00:00
+41466,WIOI,small_airport,Singkawang Airport,1.075680017,109.6880035,276,ID-KB,Sinkawang-Borneo Island,0,WIOI,,,,,,50,2008-08-22T18:35:16+00:00
+41457,WIBR,small_airport,Rokot Airport,-2.099119902,99.70069885,1,ID-SB,Sipora Island,0,WIBR,RKO,,,,,50,2008-08-22T18:34:50+00:00
+32389,WART,small_airport,Trunojoyo Airport,-7.0242,113.89023,10,ID-JI,Sumenep-Madura Island,0,WART,SUP,TRJ,,,WRST,50,2015-07-12T11:05:16+00:00
+41379,ID-KRC,small_airport,Departi Parbo Airport,-2.093,101.4683,2600,ID-JA,Sungai Penuh,1,WIPH,KRC,,,http://en.wikipedia.org/wiki/Depati_Parbo_Airport,Kerinci,50,2015-02-08T23:03:23+00:00
+41429,WAJR,small_airport,Waris Airport,-3.235,140.994,1500,ID-PA,Swach,0,WAJR,WAR,,,,,50,2015-03-27T03:07:30+00:00
+41464,WIMT,small_airport,Tebing Tinggi Airport,3.366667032,99.1166687,69,ID-SU,Tabbing Tinggi-Sumatra Island,0,WIMT,,,,,,50,2008-08-22T18:35:12+00:00
+41484,WRLH,small_airport,Tanah Grogot Airport,-1.910130024,116.2020035,17,ID-KI,Tanah Grogot-Borneo Island,0,WRLH,TNB,,,,,50,2015-02-15T03:34:32+00:00
+26823,WICB,small_airport,Budiarto Airport,-6.293171,106.57,151,ID-BT,Tangerang-Java Island,0,WIRR,,,,,"WIIA, WICB, Curug",50,2017-05-16T00:16:28+00:00
+32452,WIBT,small_airport,Sei Bati Airport,1.0527,103.3931,33,ID-RI,Tanjung Balai-Karinmunbesar Island,0,WIBT,TJB,,,http://en.wikipedia.org/wiki/Sei_Bati_Airport,Tanjung Balai Airport,50,2014-03-11T02:47:41+00:00
+41471,WITA,small_airport,Teuku Cut Ali Airport,3.1707,97.2869,17,ID-AC,Tapak Tuan-Sumatra Island,0,WITA,TPK,,,http://id.wikipedia.org/wiki/Bandar_Udara_Teuku_Cut_Ali,,50,2014-03-15T17:18:18+00:00
+41439,WAMC,small_airport,Tentena Airport,-2,120.7666702,1900,ID-ST,Tentena-Celebes Island,0,WAMC,,,,,,50,2008-08-22T18:33:37+00:00
+32424,WAPT,small_airport,Taliabu Island Airport,-1.642629981,124.5589981,9,ID-MU,Tikong-Taliabu Island,0,WAPT,TAX,,,,,50,2008-08-22T18:34:21+00:00
+30846,WARC,small_airport,Ngloram Airport,-7.194841667,111.5481667,131,ID-JT,Tjepu-Java Island,0,WARC,CPF,,,https://en.wikipedia.org/wiki/Ngloram_Airport,"Cepu, WRSC",50,2015-06-26T19:52:31+00:00
+41440,WAMI,small_airport,Sultan Bantilan Airport,1.123428,120.793658,40,ID-ST,Toli Toli-Celebes Island,0,WAMI,TLI,,,https://en.wikipedia.org/wiki/Sultan_Bantilan_Airport,"Toli Toli Airport, Lalos Airport",50,2015-06-26T09:13:17+00:00
+41402,ID-TBM,small_airport,Tumbang Samba Airport,-1.4694,113.0833,160,ID-KT,Tumbang Samba-Borneo Island,1,WAOW,TBM,,,http://id.wikipedia.org/wiki/Bandar_Udara_Tumbang_Samba,WRBW,50,2016-01-13T00:26:55+00:00
+41431,WAJU,small_airport,Ubrub Airport,-3.67565,140.8838,1370,ID-PA,Ubrub-Papua Island,0,WAJU,UBR,,,,,50,2014-04-05T14:49:49+00:00
+41416,WABG,small_airport,Wagethe Airport,-4.044229984,136.2779999,5627,ID-PA,Wagethe-Papua Island,0,WABG,WET,,,,,50,2008-08-22T18:33:06+00:00
+3275,WI1G,small_airport,Gading Wonosari Airport,-7.916590214,110.564003,702,ID-YO,Wonosari-Java Island,0,WI1G,,WI1G,,,,50,2008-08-22T18:32:57+00:00
+41441,WAMU,small_airport,Wuasa Airport,-1.424999952,120.316391,1,ID-ST,Wuasa-Celebes Island,0,WAMU,,,,,,50,2008-08-22T18:33:56+00:00
+46593,ID-0014,heliport,BAT Private Helipad,-8.717777778,115.2052778,,ID-BA,,0,,,,,,,0,2010-12-24T16:50:19+00:00
+46597,ID-0016,heliport,Inna GBB Helipad,-8.676944444,115.265,,ID-BA,,0,,,,,,,0,2010-12-24T17:04:15+00:00
+311871,ID-0172,small_airport,Enggano Airport,-5.31,102.16,,ID-BE,,0,,,,,,,0,2014-05-06T14:43:19+00:00
+46490,ID-0010,small_airport,Jatiwangi Airport,-6.678375,108.2522194,,ID-JB,,0,,,,,,"sugiri sukani, SKI",0,2010-11-08T08:04:56+00:00
+311869,ID-0170,small_airport,Kangean Field,-6.86,115.299,,ID-JI,,0,,,,,,,0,2014-05-06T14:31:15+00:00
+329625,ID-0181,small_airport,Weda Bay Airport,0.468328,127.945101,7,ID-MU,,0,,,,,,,0,2018-11-03T15:06:53+00:00
+310158,ID-0022,small_airport,Aboge Airstrip,-6.0634,139.267,53,ID-PA,,0,,,,,,,0,2013-12-14T17:39:50+00:00
+310161,ID-0023,small_airport,Aboyi Airstrip,-4.2914,140.6405,828,ID-PA,,0,,,ABY,,,,0,2013-12-14T16:41:17+00:00
+310163,WABC,small_airport,Akimuga,-4.6043,137.6576,164,ID-PA,,0,WABC,,,,,,0,2013-12-14T16:57:50+00:00
+310167,ID-0024,small_airport,Amazu Airstrip,-5.6119,139.6234,58,ID-PA,,0,,,AMZ,,,,0,2013-12-14T17:20:39+00:00
+310169,ID-0025,small_airport,Ambisibil Airstrip,-4.6712,140.5746,6425,ID-PA,,0,,,,,,,0,2013-12-14T17:38:44+00:00
+310173,ID-0027,small_airport,Arsbol Airstrip,-3.6941,138.9372,2800,ID-PA,,0,,,ARS,,,,0,2013-12-14T19:14:17+00:00
+329620,ID-0180,small_airport,Yaosakor Airstrip,-5.605278,138.4644425,10,ID-PA,,0,,,YAO,,,,0,2018-11-03T13:37:37+00:00
+311870,ID-0171,small_airport,Aideralma Airstrip,-4.3341,137.8316,2730,ID-PA,Aideralma,0,,,,,,WX03,0,2014-05-08T00:35:37+00:00
+311832,ID-0168,small_airport,Alama Airstrip,-4.2631,137.8922,3350,ID-PA,Alama,0,,,,,,WX04,0,2014-05-02T22:04:05+00:00
+43978,ID-AHI,closed,Amahai Airport,-7.540726185,139.1109161,,ID-PA,Amahai West Irian Jaya,0,,,,,,,0,2010-05-10T15:27:29+00:00
+329576,ID-0179,small_airport,Anik Airstrip,0.537465,109.742062,139,ID-KB,Anik,0,,,ANI,,,,0,2018-10-30T22:40:25+00:00
+311872,ID-0173,small_airport,Apowo Airstrip,-4.0644,135.5588,5250,ID-PA,Apowo,0,,,,,,WX15,0,2014-05-08T11:38:50+00:00
+311873,ID-0174,small_airport,Aurimi Wzil Airstrip,-2.182,138.4343,290,ID-PA,Aurimi Wzil,0,,,,,,WX18,0,2014-05-08T12:21:34+00:00
+325386,ID-0178,small_airport,Awinbon Airstrip,-5.168334,140.381388,492,ID-PA,Awinbon,0,,,AWI,,,,0,2017-11-07T22:37:49+00:00
+311168,ID-0140,heliport,Santosa Hospital Helipad,-6.915161,107.600124,2430,ID-JB,Bandung,0,,,,,,,0,2014-03-02T16:13:59+00:00
+325373,ID-0175,small_airport,Bareri Airport,-2.981793,137.782715,300,ID-PA,Bareri,0,,,BAR,,,,0,2017-11-05T17:14:49+00:00
+325374,ID-0176,small_airport,Bari Airport,-3.959057,139.901563,1660,ID-PA,Bari,0,,,BRI,,,,0,2017-11-05T17:26:17+00:00
+325377,ID-0177,small_airport,Basiem Airport,-6.058573,138.383542,49,ID-PA,Basiem,0,,,BAS,,,,0,2017-11-05T17:43:15+00:00
+301955,ID-0012,small_airport,Lasondre Airport,-0.01924,98.30097,30,ID-SU,Batu Islands,1,WIMO,,LSE,,http://en.wikipedia.org/wiki/Lasondre_Airport,Bandar Udara Lasondre,0,2014-01-05T01:20:26+00:00
+311868,ID-0169,small_airport,Bawean Airport,-5.723676,112.679592,93,ID-JI,Bawean,1,WARW,BXW,,,https://en.wikipedia.org/wiki/Bawean_Airport,Harun Thohir Airport,0,2018-09-21T10:02:14+00:00
+310248,ID-0028,small_airport,Bentiang Airstrip,0.9196,109.9155,2390,ID-KB,Bentiang,0,,,BTG,,,,0,2013-12-17T23:50:06+00:00
+302358,ID-0019,heliport,Paiton Power Helipad,-7.7169054,113.597366,5,ID-JI,Bhinar,0,,,PRO,,,,0,2012-10-23T22:26:46+00:00
+310258,ID-0030,small_airport,Bime Airstrip,-4.487,140.219,4600,ID-PA,Bime,0,,,,,,,0,2013-12-19T00:08:47+00:00
+310260,ID-0031,small_airport,Binsari Airstrip,-4.726,140.7925,5568,ID-PA,Binsari,0,,,,,,,0,2013-12-19T00:26:43+00:00
+310263,ID-0032,small_airport,Binuang Airstrip,3.7147,115.8517,2675,ID-KU,Binuang,0,,,,,,,0,2016-01-14T15:35:56+00:00
+310265,ID-0033,small_airport,Biri Airstrip,-2.87793,137.76816,415,ID-PA,Biri,0,,,BIR,,,,0,2013-12-19T01:29:07+00:00
+46482,WIAJ,small_airport,Semplak Airport,-6.540277778,106.7552778,584,ID-JB,Bogor,0,WICJ,,,,,"WIAJ, Atang Sanjaya, Atang Sendjaja, Atang Senjaya",0,2014-01-25T14:07:20+00:00
+310267,ID-0034,small_airport,Bomela Airport,-4.6927,139.9132,5050,ID-PA,Bomela,0,,,BML,,,WX48,0,2013-12-19T02:21:18+00:00
+310270,ID-0035,small_airport,Bomoani Airstrip,-3.9657,135.9352,4966,ID-PA,Bomomani,0,,,BMO,,,,0,2013-12-19T02:59:35+00:00
+310273,ID-0037,small_airport,Buduk Kabul Airstrip,3.7978,115.7065,3260,ID-KU,Buduk Kabul,0,,,BDK,,,,0,2016-01-14T15:36:54+00:00
+310275,ID-0038,small_airport,Bugalaga Airstrip,-3.6235,136.5963,6360,ID-PA,Bugalaga,0,,,BGL,,,WX53,0,2013-12-19T04:42:25+00:00
+310281,ID-0039,small_airport,Calang Airstrip,4.6132,95.6234,32,ID-AC,Calang,0,,,,,,,0,2013-12-19T16:39:47+00:00
+310291,ID-0040,small_airport,Comoro Airstrip,-5.9255,138.6324,21,ID-PA,Comoro,0,,,COM,,,,0,2013-12-20T22:47:57+00:00
+310293,ID-0041,small_airport,Dagai Airport,-3.3052,137.9436,347,ID-PA,Dagai,0,,,DAG,,,WX59,0,2013-12-20T23:22:18+00:00
+310490,ID-0089,small_airport,Lake Holmes Airstrip,-2.4716,137.9879,1300,ID-PA,Danau Bira,0,,,LAH,,,WZ61,0,2013-12-31T22:42:39+00:00
+310297,ID-0043,small_airport,Daufo Airfield,-3.1737,137.2544,500,ID-PA,Daufo,0,,,DOF,,,,0,2013-12-21T00:19:54+00:00
+315622,DEX,small_airport,Nop Goliat Airport,-4.8557,139.482006,198,ID-PA,Dekai - Yahukimo,1,WAVD,DEX,,,https://en.wikipedia.org/wiki/Nop_Goliat_Dekai_Airport,Nop Goliath,0,2018-05-07T23:20:05+00:00
+310313,ID-0044,small_airport,Derapos Airstrip,-2.9737,137.2234,433,ID-PA,Derapos,0,,,DEP,,,WX68,0,2013-12-21T10:53:42+00:00
+310319,ID-0045,small_airport,Dou Airstrip,-3.2625,138.1484,299,ID-PA,Dou,0,,,DOU,,,,0,2013-12-21T11:58:53+00:00
+310321,ID-0046,small_airport,Doyo Baru Airport,-2.5388,140.4641,385,ID-PA,Doyo Baru,0,,,DOB,,,,0,2013-12-21T12:19:26+00:00
+310323,ID-0047,small_airport,Eaopoto Airstrip,-3.9497,136.3383,5900,ID-PA,Eaopoto,0,,,EPO,,,WX75,0,2013-12-21T12:39:03+00:00
+310326,ID-0048,small_airport,Engkadik Airstrip,0.9797,110.0282,2190,ID-KB,Engkadik,0,,,ENK,,,WX79,0,2013-12-21T13:28:22+00:00
+310330,ID-0049,small_airport,Eri Airstrip,-2.6308,138.1094,440,ID-PA,Eri,0,,,ERI,,,WX83,0,2013-12-22T12:38:23+00:00
+310332,ID-0050,small_airport,Faowi Airstrip,-3.2301,137.7262,333,ID-PA,Faowi,0,,,FAO,,,WX84,0,2013-12-22T13:00:51+00:00
+310333,ID-0051,small_airport,Fef Airport,-0.8103,132.4326,1406,ID-PB,Fef,0,,,FEF,,,WX85,0,2013-12-22T13:13:41+00:00
+310334,ID-0052,small_airport,Foao Airstrip,-3.066,139.099,241,ID-PA,Foao,0,,,FOA,,,WX86,0,2013-12-22T13:23:59+00:00
+310338,ID-0053,small_airport,Fruata Airstrip,-2.9858,133.5001,192,ID-PB,Fruata,0,,,FRU,,,WX87,0,2013-12-22T13:42:04+00:00
+310342,ID-0054,small_airport,Geyarek Airstrip,-4.6504,138.75226,248,ID-PA,Geyarek,0,,,GEA,,,WX92,0,2013-12-22T15:42:41+00:00
+310344,ID-0055,small_airport,Gilgal Airstrip,0.458,111.0707,108,ID-KB,Gilgal,0,,,GIL,,,WX93,0,2013-12-22T15:57:31+00:00
+310347,ID-0056,small_airport,Gusimawa Airstrip,-3.0423,133.8779,131,ID-PB,Gusimawa,0,,,,,,WX97,0,2013-12-22T20:04:00+00:00
+310349,ID-0057,small_airport,Haya Airstrip,-2.8156,138.1099,250,ID-PA,Haya,0,,,HAY,,,WX98,0,2013-12-22T20:18:40+00:00
+310353,ID-0059,small_airport,Hitadipa Airport,-3.7343,137.117,5061,ID-PA,Hitadipa,0,,,HIT,,,WZ03,0,2013-12-23T01:05:33+00:00
+310355,ID-0060,small_airport,Holuwon Airstrip,-4.4804,139.2741,3770,ID-PA,Holuwon,0,,,HOL,,,WZ07,0,2013-12-23T01:47:55+00:00
+310358,ID-0061,small_airport,Hubliki Airstrip,-3.7328,139.2855,1970,ID-PA,Hubliki,0,,,HUB,,,WZ04,0,2013-12-23T02:04:36+00:00
+310360,ID-0062,small_airport,Hulu Atas,-3.6799,140.22955,568,ID-PA,Hulu Atas,0,,,HUL,,,WZ05,0,2013-12-23T02:21:17+00:00
+310362,ID-0063,small_airport,Ibele Airstrip,-4.052,138.796,6320,ID-PA,Ibele,0,,,,,,WT90,0,2013-12-23T02:34:03+00:00
+310406,ID-0066,small_airport,Illaga III Airport,-3.9993,137.65317,7673,ID-PA,Illaga,0,,,,,,WZ11,0,2013-12-28T00:20:26+00:00
+310409,ID-0067,small_airport,Ilugwa/Antara Airport,-3.8357,138.9219,6500,ID-PA,Ilugwa,0,,,ILG,,,WZ12,0,2013-12-28T01:17:28+00:00
+310412,ID-0068,small_airport,Iratoi Airstrip,-3.2389,137.3339,352,ID-PA,Iratoi,0,,,IRA,,,WZ14,0,2013-12-28T02:04:26+00:00
+310414,ID-0069,small_airport,Iray Airstrip,-1.3297,133.9115,6464,ID-PB,Iray,0,,,IRY,,,WZ15,0,2013-12-28T02:45:13+00:00
+310416,ID-0070,small_airport,Iwur Airstrip,-5.1354,140.7192,820,ID-PA,Iwur,0,,,IWR,,,WZ17,0,2013-12-28T03:13:46+00:00
+46586,ID-0006,small_airport,"Noto Hadinegoro, Jember Airport",-8.238056,113.694439,281,ID-JI,Jember,1,WARE,JBB,,,https://en.wikipedia.org/wiki/Notohadinegoro_Airport,Location at Jenggawah,0,2016-07-31T09:31:55+00:00
+310425,ID-0072,small_airport,Jita Airstrip,-4.8564,137.7019,40,ID-PA,Jita,0,,,JIT,,,WZ21,0,2013-12-28T18:29:19+00:00
+310399,ID-0065,small_airport,Kaesah Airstrip,-7.1088,140.1265,53,ID-PA,Kaesah,0,,,KAH,,,WZ24,0,2013-12-27T02:26:01+00:00
+310397,ID-0064,small_airport,Kaiy Airstrip,-2.9871,138.1062,195,ID-PA,Kaiy,0,,,KAI,,,WZ25,0,2013-12-28T18:45:03+00:00
+310679,ID-0101,small_airport,Nalca Airstrip,-4.3636,139.8351,5250,ID-PA,Kalca,0,,,,,,WW22,0,2014-01-23T01:22:17+00:00
+310443,ID-0074,small_airport,Kasonaweja Airstrip,-2.3007,138.0327,88,ID-LA,Kasonaweja,0,,,KAS,,,WZ31,0,2013-12-29T10:52:06+00:00
+310445,ID-0075,small_airport,Kaure  Airstrip,-3.47,140.3622,700,ID-PA,Kaure,0,,,KAU,,,"Aurina, WZ32",0,2013-12-29T11:13:24+00:00
+310447,WABY,small_airport,Kebo Airstrip,-3.8248,136.3855,5845,ID-PA,Kebo,0,WABY,,,,,,0,2013-12-29T11:35:48+00:00
+310449,ID-0076,small_airport,Kedembak Airstrip,0.5906,111.302,170,ID-KB,Kedembak,0,,,,,,WZ36,0,2013-12-29T11:54:59+00:00
+310452,ID-0077,small_airport,Kelansam Airstrip,0.1228,111.4197,96,ID-KB,Kelansam,0,,,KEL,,,WZ39,0,2013-12-29T12:10:03+00:00
+310455,ID-0078,small_airport,Keneyan Airstrip,-4.5995,138.3844,449,ID-PA,Keneyan,0,,,KEN,,,"WZ41, Kenyem, Kenyam",0,2013-12-29T13:16:33+00:00
+310458,ID-0079,small_airport,Kerapak Airstrip,0.0939,111.9083,157,ID-KB,Kerapak,0,,,KRA,,,WZ42,0,2013-12-29T16:08:18+00:00
+44572,KMM,small_airport,Kimaam Airport,-7.978199959,138.852005,26,ID-PA,Kimaam,0,,KMM,,,,"Kimam, Kimaan, Kiman",0,2013-12-27T01:01:04+00:00
+310463,ID-0080,small_airport,Kiwi Airstrip,-4.6975,140.722,5260,ID-PA,Kiwi,0,,,KIW,,,,0,2013-12-29T17:59:09+00:00
+310461,WAJK,small_airport,Kiwirok Airstrip,-4.7135,140.7407,5470,ID-PA,Kiwirok,0,WAJK,,,,,,0,2013-12-29T17:52:45+00:00
+310465,ID-0081,small_airport,Kobakma Airstrip,-3.66634,139.0592,3195,ID-PA,Kobakma,0,,,,,,WZ44,0,2013-12-29T18:10:03+00:00
+310468,ID-0082,small_airport,Komopa Airstrip,-3.7998,136.4775,5822,ID-PA,Komopa,0,,,KOM,,,WZ45,0,2013-12-29T18:50:12+00:00
+310470,ID-0083,small_airport,Koropun Airstrip,-4.4792,139.6494,5900,ID-PA,Koropun,0,,,KOR,,,WZ48,0,2013-12-29T19:04:38+00:00
+310474,ID-0084,small_airport,Kuala Kurun,-1.1277,113.8746,145,ID-KT,Kuala Kurun,0,,,,,,WT81,0,2016-01-13T00:25:29+00:00
+310478,ID-0085,small_airport,Kuala Randau Airstrip,-0.5824,110.4728,240,ID-KB,Kuala Randau,0,,,,,,WZ54,0,2013-12-31T00:40:13+00:00
+310480,ID-0086,small_airport,Kustera Airstrip,-2.7467,137.92,350,ID-PA,Kustera,0,,,KUS,,,WZ57,0,2013-12-31T00:56:59+00:00
+310482,ID-0087,small_airport,Kwerba Airstrip,-2.6434,138.4087,247,ID-PA,Kwerba,0,,,KWE,,,WZ59,0,2013-12-31T01:25:53+00:00
+310484,ID-0088,small_airport,Kwijawagi,-4.0256,138.2046,9288,ID-PA,Kwijawagi,0,,,KWI,,,"WZ60, Kwiyawagi",0,2013-12-31T01:46:31+00:00
+310492,ID-0090,small_airport,Landikma Airstrip,-3.8212,139.2423,3345,ID-PA,Landikma,0,,,LAN,,,WZ64,0,2014-01-01T10:03:38+00:00
+310494,ID-0091,small_airport,Langda Airstrip,-4.6785,139.9745,6480,ID-PA,Langda,0,,,LGD,,,WZ65,0,2014-01-02T14:04:01+00:00
+310500,ID-0092,small_airport,Lokok Airstrip,1.0215,110.0505,1855,ID-KB,Lokok,0,,,,,,WZ70,0,2014-01-01T12:46:56+00:00
+310502,ID-0093,small_airport,Long Alango Airstrip,2.9304,115.8512,1292,ID-KU,Long Alango,0,,,,,,WZ71,0,2016-01-14T15:31:08+00:00
+310513,ID-0094,small_airport,Long Rungan,3.5994,115.8418,2880,ID-KU,Long Rungan,1,,,,,,"WZ86, Long Rongan",0,2016-01-14T15:34:54+00:00
+310515,ID-0095,small_airport,Long Segar Airstrip,0.7981,116.8157,120,ID-KI,Long Segar,0,,,,,,WZ87,0,2015-02-15T02:59:27+00:00
+310518,ID-0096,small_airport,Luban Airstrip,-4.2153,140.5606,840,ID-PA,Luban,0,,,LUB,,,WZ91,0,2014-01-03T04:13:04+00:00
+310521,ID-0097,small_airport,Lumbis Airstrip,4.3038,116.2175,575,ID-KU,Lumbis,0,,,,,,WZ94,0,2016-01-12T23:51:25+00:00
+310523,ID-0098,small_airport,Madya Raya Airstrip,-0.865,111.6637,380,ID-KB,Madya Raya,0,,,,,,WZ96,0,2014-01-03T13:47:35+00:00
+310525,ID-0099,small_airport,Magoda Airstrip,-3.9906,135.8532,5260,ID-PA,Magoda,0,,,MGD,,,WZ98,0,2014-01-03T14:12:03+00:00
+41496,ID-0007,heliport,Malinau Heliport,3.55264,116.6256,86,ID-KU,Malinau-Borneo Island,0,,,,,,,0,2016-01-14T15:40:53+00:00
+311639,WAJY,small_airport,Werur/Mar Airport,-0.4198,132.1886,35,ID-PB,Mar,0,WAJY,,,,,,0,2014-04-12T16:07:48+00:00
+310599,WIPI,small_airport,Muara Bungo Airport,-1.1278,102.135,214,ID-JA,Muara Bungo,1,WIPI,,,http://www.infobungo.com/2012/12/jadwal-penerbangan-dari-bandara-muara.html,http://en.wikipedia.org/wiki/Muara_Bungo_Airport,Pasir Mayang,0,2014-01-09T03:20:51+00:00
+310682,ID-0102,small_airport,Nanga Labang Airstrip,0.228,111.65084,83,ID-KB,Nanga Labang,0,,,,,,WW24,0,2014-01-23T03:25:07+00:00
+310692,ID-0103,small_airport,Nanga Mawong Airstrip,-0.4322,112.3271,286,ID-KB,Nanga Mawong,0,,,,,,WW26,0,2014-01-25T10:39:08+00:00
+310695,ID-0104,small_airport,Nanga Merakai Airstrip,0.7024,111.5225,112,ID-KB,Nanga Merakai,0,,,MER,,,WW52,0,2014-01-25T17:59:45+00:00
+310697,ID-0105,small_airport,Nanga Nyabu Airstrip,1.0152,112.714,146,ID-KB,Nanga Nyabu,0,,,,,,WW27,0,2014-01-25T18:15:41+00:00
+310699,ID-0106,small_airport,Nanga Ruan Airstrip,0.6283,113.1753,278,ID-KB,Nanga Ruan,0,,,,,,WW29,0,2014-01-25T18:26:46+00:00
+310705,ID-0109,small_airport,Nania Airstrip,-4.3627,139.3025,7060,ID-PA,Nania,0,,,NIN,,,WW34,0,2014-01-25T19:39:49+00:00
+310701,ID-0107,small_airport,Nenei Airstrip,-1.492,133.9956,2864,ID-PB,Nenei,0,,,NEN,,,WW31,0,2014-01-25T18:54:40+00:00
+310703,ID-0108,small_airport,Nain Baru Airstrip,1.4032,115.3267,1783,ID-KU,Nian Baru,0,,,,,,WT78,0,2016-01-12T23:53:11+00:00
+310838,ID-0110,small_airport,Nipsan Airstrip,-4.1141,139.6438,6000,ID-PA,Nipsan,0,,,NIP,,,WW35,0,2014-01-30T01:37:38+00:00
+310606,ID-0100,small_airport,Oklip Airstrip,-4.7623,140.781,6300,ID-PA,Oklip,0,,,OKL,,,WW43,0,2014-01-09T13:41:45+00:00
+310841,ID-0111,small_airport,Okyap Airstrip,-4.7431,140.8487,4370,ID-PA,Okyap,0,,,OKY,,,"WW44, Okyop",0,2014-01-30T02:12:38+00:00
+310843,ID-0112,small_airport,Omban Airstrip,-4.3683,140.39255,3078,ID-PA,Omban,0,,,OMB,,,WW45,0,2014-01-30T02:41:35+00:00
+310889,ID-0115,small_airport,Pagai Airstrip,-3.5362,139.7826,305,ID-PA,Pagai,0,,,PAG,,,WW49,0,2014-02-05T00:56:23+00:00
+310887,ID-0114,small_airport,Padang Pagai Airstrip,-2.8574,100.2145,141,ID-SB,Pagai-Selatan Island,0,,,,,,WW48,0,2014-02-05T00:26:21+00:00
+310890,ID-0116,small_airport,Panggema/Hasan Airport,-4.1348,139.3777,4860,ID-PA,Panggema,0,,,,,,WW51,0,2014-02-05T01:34:52+00:00
+310892,ID-0117,small_airport,Papasena Airstrip,-2.915,138.5876,224,ID-PA,Papasena,0,,,PAP,,,WW53,0,2014-02-05T01:51:56+00:00
+310898,ID-0118,small_airport,Pass Valley Airstrip,-3.8598,139.0989,6500,ID-PA,Pass Valley,0,,,PAV,,,WW56,0,2014-02-05T23:46:50+00:00
+310295,ID-0042,small_airport,Datah Dian Airstrip,2.0062,115.152,1800,ID-KU,Pertamina Oil & Gas Corp.,0,,,DAT,,,,0,2016-01-12T23:56:34+00:00
+310900,ID-0119,small_airport,Piramid Airstrip,-3.9015,138.764,5630,ID-PA,Piramid,0,,,PYR,,,"WW65, Pyramid Airstrip",0,2014-02-06T00:22:06+00:00
+310903,ID-0120,small_airport,Pit River Airstrip,-3.9819,138.5338,7090,ID-PA,Pit,0,,,,,,WW66,0,2014-02-06T01:00:34+00:00
+310908,ID-0123,small_airport,Poga Airstrip,-3.8031,138.5823,7352,ID-PA,Poga,0,,,PGA,,,WW67,0,2014-02-06T10:27:57+00:00
+310905,ID-0122,small_airport,Polimo Airstrip,-4.2197,139.0339,5550,ID-PA,Polimo,0,,,POL,,,WW69,0,2014-02-06T01:56:07+00:00
+310909,ID-0124,small_airport,Prongkoli Airstrip,-4.1889,139.3429,6385,ID-PA,Prongkoli,0,,,PRO,,,WW70,0,2014-02-06T13:08:09+00:00
+310979,ID-0126,small_airport,Puldamat,-4.3196,139.8704,5450,ID-PA,Puldamat,0,,,PUL,,,WW71,0,2014-02-12T23:30:52+00:00
+302359,ID-0020,heliport,Karyadibya Helipad,-7.763847099,112.7377966,,ID-JI,Purwosari,0,,,,,,,0,2012-11-24T18:48:57+00:00
+302360,ID-0021,heliport,Pandaan Helipad,-7.7683326,112.7391373,,ID-JI,Purwosari,0,,,UNK,,,,0,2012-11-24T18:49:16+00:00
+310844,ID-0113,small_airport,Onondowa/Rampi Airport,-2.1254,120.2967,3230,ID-SN,Rampi,0,,,,,,WW46,0,2014-01-30T03:24:56+00:00
+310981,ID-0127,small_airport,Rantau Prapat/Padang Halaban Airport,2.3154,99.8277,74,ID-SU,Rantau Prapat/Padang Halaban,0,,,,,,WW76,0,2014-02-13T00:41:49+00:00
+310985,ID-0128,small_airport,Riam Sejawak Airstrip,0.9717,111.0994,140,ID-KB,Riam Sejawak,0,,,,,,WW79,0,2014-02-14T15:43:27+00:00
+310987,ID-0129,small_airport,Ros Bori Airstrip,-1.6586,136.102,67,ID-PA,Ros Bori - Yapen Island,0,,,ROS,,,"WW82, Japen Island",0,2014-02-14T15:56:36+00:00
+309298,ID-0017,large_airport,Sungai Siring International Airport,-0.373611,117.255556,82,ID-KI,Samarinda,1,,,,http://www.proyek.dishubprovkaltim.info/?pro=1,http://en.wikipedia.org/wiki/Samarinda_International_Airport,"Sungai Siring Airport, فرودگاه سیرینگ",0,2015-02-15T02:52:02+00:00
+311002,ID-0130,small_airport,Samboka Airstrip,-4.8346,139.7147,560,ID-PA,Samboka,0,,,SAM,,,WW88,0,2014-02-16T00:09:17+00:00
+311283,WRLJ,small_airport,Tanjung Bara Airport,0.5605,117.64435,66,ID-KI,Sangata,0,WRLJ,,WRLJ,,http://id.wikipedia.org/wiki/Bandar_Udara_Tanjung_Bara,,0,2015-02-15T03:37:31+00:00
+311005,ID-0131,small_airport,Sape Airstrip,-4.7655,140.5054,6885,ID-PA,Sape,0,,,SAP,,,WW89,0,2014-02-16T01:12:38+00:00
+311018,ID-0132,closed,Saumlaki/Lolurun Airport,-7.852368,131.345413,530,ID-MA,Saumlaki-Yamdena Island,0,,,,,,,0,2014-02-18T00:35:57+00:00
+316780,ID-0018,closed,Selaru Airstrip,-8.256,130.842,20,ID-MA,Selaru Island,0,,,,,,Lingat,0,2016-01-23T00:28:03+00:00
+311020,WAWH,small_airport,Selayar/Aroepala Airport,-6.1751,120.4362,30,ID-SN,Selayar,1,WAWH,,,,http://id.wikipedia.org/wiki/Bandar_Udara_Lagaligo,"Haji Aroeppala, Lagaligo Airport",0,2014-02-18T20:01:47+00:00
+311141,ID-0134,small_airport,Seradala Airstrip,-4.9797,139.9035,452,ID-PA,Seradala,0,,,,,,WT14,0,2014-03-01T03:11:30+00:00
+311142,ID-0135,small_airport,Serimbu Airstrip,0.741,110.123,244,ID-KB,Serimbu,0,,,SER,,,WT01,0,2014-03-01T03:28:55+00:00
+311145,ID-0136,small_airport,Serukam,0.797,109.3317,190,ID-KB,Serukam,0,,,,,,WT02,0,2014-03-01T04:24:48+00:00
+311148,ID-0137,small_airport,Sikari Airstrip,-2.7616,138.3859,217,ID-PA,Sikari,0,,,SIK,,,WT04,0,2014-03-01T11:29:46+00:00
+311149,ID-0138,small_airport,Silimo Airstrip,-4.4656,138.9433,5760,ID-PA,Silimo,0,,,,,,,0,2014-03-01T12:10:12+00:00
+311154,ID-0139,small_airport,Syekh Hamzah Fansyuri Airport,2.2695,97.9666,17,ID-AC,Singkil,1,,,,,http://en.wikipedia.org/wiki/Syekh_Hamzah_Fansyuri_Airport,WT13,0,2014-03-01T13:37:03+00:00
+311170,ID-0141,small_airport,Siriwo Airstrip,-3.5388,135.9491,533,ID-PA,Siriwo,0,,,SIW,,,WT17,0,2014-03-02T22:30:29+00:00
+311172,ID-0142,small_airport,Soba Airstrip,-4.3453,139.1791,6125,ID-PA,Soba,0,,,SOB,,,WT20,0,2014-03-02T23:00:15+00:00
+311210,ID-0143,small_airport,Sumo Airstrip,-4.75,139.3536,210,ID-PA,Sumo,0,,,,,,WT22,0,2014-03-09T05:03:01+00:00
+311212,ID-0144,small_airport,Sumtamon Airstrip,-4.8083,140.1715,4640,ID-PA,Sumtamon,0,,,SMT,,,WT23,0,2015-03-07T22:05:37+00:00
+311215,ID-0145,small_airport,Sungai Tontang Airstrip,-0.73,110.378,145,ID-KB,Sungai Tontang,0,,,,,,WT26,0,2014-03-09T23:58:50+00:00
+311218,ID-0146,small_airport,Suswa Airstrip,-0.942,132.298,583,ID-PB,Suswa,0,,,SUS,,,WT28,0,2014-03-10T00:18:47+00:00
+311221,ID-0147,small_airport,Synopi Airstrip,-0.8403,132.926,1648,ID-PB,Synopi,0,,,,,,WT30,0,2014-03-10T00:46:48+00:00
+311226,ID-0148,small_airport,Taige Airstrip,-1.3105,133.8517,6248,ID-PB,Taige,0,,,TGE,,,WT32,0,2014-03-10T01:26:40+00:00
+311231,ID-0149,small_airport,Taiyeve Airstrip,-3.2331,138.4458,176,ID-PA,Taiyeve,0,,,TAV,,,WT34,0,2014-03-10T23:51:56+00:00
+311233,ID-0150,small_airport,Takar Airstrip,-2.0375,139.113,55,ID-PA,Takar,0,,,,,,WT35,0,2014-03-11T00:59:52+00:00
+311235,ID-0151,small_airport,Tangma Airstrip,-4.26,139.047,5860,ID-PA,Tangma,0,,,TNG,,,WT37,0,2014-03-11T02:00:48+00:00
+311285,ID-0152,small_airport,Tanjung Maju Airstrip,-0.7102,110.4991,175,ID-KB,Tanjung Maju,0,,,TJM,,,WT40,0,2014-03-15T16:59:18+00:00
+311289,ID-0153,small_airport,Tayayi Airstrip,-3.0447,137.6217,246,ID-PA,Tayayi,0,,,TAI,,,WT42,0,2014-03-15T17:45:40+00:00
+310539,WAOT,small_airport,Teluk Kepayang Airport,-3.4203,115.6867,103,ID-KS,Teluk Kepayang,0,WAOT,,,,,"WRBT, Valgoson",0,2014-01-04T14:31:08+00:00
+319816,JIO,small_airport,Jos Orno Imsula Airport,-8.13911,127.9075,43,ID-MA,Tiakur,1,,JIO,,,https://en.wikipedia.org/wiki/Jos_Orno_Imsula_Airport,"Moa Island, Leti Islands",0,2016-08-07T09:36:30+00:00
+311297,ID-0155,small_airport,Timepa Airstrip,-4.0047,135.7872,4940,ID-PA,Timepa,0,,,TIP,,,WT48,0,2014-03-15T20:59:34+00:00
+311558,ID-0156,small_airport,Turimo Airstrip,-3.2735,137.558,286,ID-PA,Turimo,0,,,TUR,,,WT51,0,2014-04-05T14:26:04+00:00
+311561,ID-0157,small_airport,Waff Airstrip,-2.3307,138.7489,255,ID-PA,Waff,0,,,,,,WT55,0,2014-04-05T15:15:09+00:00
+311564,ID-0158,small_airport,Walerek Airstrip,-3.9925,139.4907,2420,ID-PA,Walerek,0,,,WEL,,,WT58,0,2014-04-05T16:02:02+00:00
+311630,ID-0159,small_airport,Walma Airstrip,-4.2179,139.3936,6400,ID-PA,Walma,0,,,WAL,,,,0,2014-04-12T11:03:49+00:00
+311632,ID-0160,small_airport,Wandama Airstrip,-4.5472,138.55225,761,ID-PA,Wandama,0,,,,,,WT61,0,2014-04-12T13:51:35+00:00
+311634,ID-0161,small_airport,Wanggemalu Airstrip,-5.4974,139.9783,219,ID-PA,Wanggemalu,0,,,WNG,,,WT62,0,2014-04-12T14:13:11+00:00
+311640,ID-0162,small_airport,Wolo Airstrip,-3.8505,138.8603,5870,ID-PA,Wolo,0,,,WOL,,,WT68,0,2014-04-12T16:27:38+00:00
+311641,ID-0163,small_airport,Wunin Airstrip,-3.650672,135.554162,5385,ID-PA,Wunin,0,,,WUN,,,WT70,0,2018-11-03T13:55:24+00:00
+311643,ID-0164,small_airport,Yaniruma Airstrip,-5.4206,139.8197,155,ID-PA,Yaniruma,0,,,,,,WT71,0,2014-04-13T00:35:13+00:00
+311645,ID-0165,small_airport,Yapil Airstrip,-4.5407,140.5667,4470,ID-PA,Yapil,0,,,YAP,,,WT73,0,2014-04-13T01:04:17+00:00
+311647,ID-0166,small_airport,Yigi Airstrip,-4.2278,138.3934,6100,ID-PA,Yigi,0,,,YIG,,,WT74,0,2014-04-13T02:30:31+00:00
+311649,ID-0167,small_airport,Yogosem Airstrip,-4.24765,139.1691,8200,ID-PA,Yogosem,0,,,,,,WT75,0,2014-04-13T02:46:32+00:00
